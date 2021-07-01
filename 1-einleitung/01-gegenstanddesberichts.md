@@ -25,5 +25,5 @@ Der vorliegende Jahresbericht ist nach dem Social Reporting Standard (SRS) struk
 Die Finanzberichterstattung bezieht sich auf das Geschäftsjahr 2019. Alle anderen Fakten reichen bis zur Gründung im Februar 2011 zurück. Es wird im jährlichen Turnus berichtet. 
 
 
-### Ansprechpartner*in
+### Ansprechperson
 Fragen zum Bericht richten Sie bitte an [info@okfn.de](mailto:info@okfn.de).
