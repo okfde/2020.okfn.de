@@ -46,3 +46,17 @@ Im Sommer 2020 legte die Bundesregierung den Zwischenbericht zur Umsetzung des z
 Die deutsche EU-Ratspräsidentschaft stellte ihre Amtszeit unter das Leitmotiv der digitalen Souveränität. Mit diesem Buzzword, was verstanden werden sollte als Emanzipation von außereuropäischen kommerziellen Tech-Giganten, wurden auch die Themen Open Data und Open Source Technologien diskutiert. Mit Open Source Software können sich staatliche Institutionen besser vor Sicherheitslücken und Angriffen schützen, da sie ihre IT-Systeme selbst weiterentwickeln und warten können. Die Expertise der OKF DE, besonders des Programms Prototype Fund, der Open Source Software Projekte fördert, war daher stark nachgefragt. 
 
 Auch trotz der Coronapandemie blieb das Thema Klima & Nachhaltigkeit auf der Agenda. Mit unserer Beteiligung an der [Bits&Bäume](https://bits-und-baeume.org/de) Bewegung und der Umsetzung der [Umweltdatenschule](https://datenschule.de/projekte/umweltdatenschule/) haben wir auch in diesem Jahr aktiv an der Schnittstelle zwischen digitalem Wandel und Nachhaltigkeit gearbeitet. Die EU mit dem großen Förderprogramm “EU Green Deal” einen wichtigen Impuls für die nächsten Jahre, Technologie und Umwelt stärker zusammen zu betrachten; auch viele Stiftungen, Initiativen und Forschungsinstitutionen griffen die “digitale Nachhaltigkeit” zunehmend auf. Die OKF DE hat sich in diesem Themenfeld mit dem Projekt [Code for Climate](https://codefor.de/blog/code-for-climate-open-data-day/) sowie mit Projektanträgen und Publikationen weiter verankert.
+
+### Unsere Forderungen
+
+#### 1 Zivilgesellschaftliche Expertise nutzen und Digitales Ehrenamt fördern
+Eine aktive, vielfältige und stachlige Zivilgesellschaft ist das Lebenselixier der Demokratie. Zivilgesellschaftliche Akteur:innen, ob haupt- oder ehrenamtlich, sollten in Meinungs- und Entscheidungsprozessen stärker berücksichtigt werden. Ehrenamtliche Strukturen brauchen mehr Anerkennung.
+
+#### 2 Staatliches Handeln transparent machen: Mehr Informationsfreiheit und Rechtsanspruch auf Offene Daten erwirken
+Es braucht eine Offene und transparente Regierungsführung, um das Vertrauen zwischen Staat und Bürger:innen zu stärken.
+
+#### 3 Nachhaltige Strukturen für eine gemeinwohlorientierte Digitalpolitik und souveräne  Tech-Infrastruktur schaffen
+Digitale Basistechnologie zählt zur Daseinsvorsorge, die allen zur Verfügung stehen muss. Hier braucht es langfristige und verlässliche Infrastruktur.
+
+#### 4 Bildung Offen gestalten: Partizipative Bildungsstrukturen durchsetzen und lebenslanges Lernen ermöglichen
+Jede Person, ob jung oder alt, muss befähigt werden, sich mündig und souverän in der digitalen Welt zu bewegen und ihre Mechanismen zu verstehen.
