@@ -139,12 +139,6 @@ outlook:  >
 ---
 
 
-# Portal für Anfragen nach dem Informationsfreiheitsgesetz
+# Das Projekt
 
-Das Informationsfreiheitsgesetz ist nur wenigen Menschen bekannt. In der Regel ist Menschen nicht klar, an wen wie Anfragen gestellt werden können und welche Rahmenbedingungen dafür gelten. Die Bearbeitung von Anfragen nach dem Informationsfreiheitsgesetz ist weitgehend unbeliebt. Viele Behörden blockieren aktiv den Zugang zu Informationen. Das führt dazu, dass Informationsfreiheit als demokratisches Grundrecht zu schwach ausgeprägt ist und die Durchsetzung der Informationsfreiheit aufgrund der schwachen Nutzung zu schwierig.
-
-Mit Hilfe von FragDenStaat.de können alle Menschen besonders einfach Anfragen an Behörden stellen. Der Ansatz ist niedrigschwellig. Alle Anfragen und Antworten darauf werden online dokumentiert und zeigen die Praxis der Informationsfreiheit in Deutschland. Davon können Bürger\*innen ebenso wie Behörden lernen. Zudem wird die öffentliche Kontrolle erhöht. Das Team von FragDenStaat informiert aktuell über neue Fälle, führt strategische Klagen durch und zeigt Erfolge und Probleme der Informationsfreiheit auf.
-
-Mehr Menschen erkennen so ihr Recht auf Informationsfreiheit, mehr Menschen nutzen das Recht – und die Nutzung des Rechts führt zu mehr Partizipation im politischen Prozess. Die Praxis der Informationsfreiheit wird gestärkt, weil Verwaltungen online anhand von Fällen viel über Informationsfreiheit lernen können und Verwaltungen befolgen das Informationsfreiheitsgesetz besser. Die Akzeptanz in den Verwaltungen für Informationsfreiheit wird gestärkt. Die Nutzung von Anfragen an Verwaltungen für NGO-Kampagnen und journalistische Projekte wird erhöht und es entsteht Druck auf den Gesetzgeber, bestehende Regelungen bürger\*innenfreundlicher zu gestalten.
-
-Durch die stärkere Nutzung der Informationsfreiheit wird dieses Menschenrecht gestärkt.
+In einer Demokratie ist es notwendig, dass sich Bürger:innen frei über Regierungshandeln informieren können. Mit dem Informationsfreiheitsgesetz hat jede Person das Recht, Dokumente bei Behörden anzufragen. Mit der Online-Plattform FragDenStaat unterstützen wir Bürger:innen dabei, ihr Recht auf Zugang zu Informationen von deutschen Behörden wahrzunehmen. Bürger:innen müssen sich nicht mehr durch den Gesetzesdschungel der Bundesländer und dem Bund arbeiten, um eine Anfrage zu stellen. Anfragen und Antworten erscheinen transparent online. Schon im Jahr der Gründung des Projektes hat sich die Anzahl der Informationsanfragen in Deutschland verdoppelt. FragDenStaat ist aber nicht nur eine Software. Wir wollen die Informationsfreiheit in Deutschland nach vorne bringen. Hierzu entwickeln wir eigene Kampagnen, unternehmen eigene Recherchen, entwickeln ein Transparenzranking und führen Klagen durch.
