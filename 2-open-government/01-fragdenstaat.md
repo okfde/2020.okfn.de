@@ -27,7 +27,8 @@ solution:
 - title: einfache Anfragen online
   text: Mithilfe von FragDenStaat.de können alle Menschen besonders einfach Anfragen an Behörden stellen. Der Ansatz ist niedrigschwellig, zusätzliche Tools gibt es für Journalist\*innen und NGOs.
 - title: transparente Darstellung
-  text: Alle Anfragen und Antworten darauf werden online dokumentiert und zeigen die Praxis der Informationsfreiheit in Deutschland. Davon können Bürger\*innen und Behörden lernen. Die öffentliche Kontrolle wird verstärkt.
+  text: Alle Anfragen und Antworten darauf werden online dokumentiert und zeigen die Praxis der Informationsfreiheit in Deutschland. Davon können  
+   Bürger:innen und Behörden lernen. Die öffentliche Kontrolle wird verstärkt.
 - title: laufende Berichterstattung
   text: Das Team von FragDenStaat informiert aktuell über neue Fälle und Klagen und zeigt Erfolge und Probleme der Informationsfreiheit auf.
 effect:
@@ -57,25 +58,32 @@ resources: >
 
   **Laufzeit** <br>
 
-  ganzjährige Projektlaufzeit <br><br>
+  Das Projekt läuft seit August 2011. <br><br>
   
 
   **Budget** <br>
 
-  Im Jahr 2019 betrugen die Gesamteinnahmen 387.962,76 €. 66% der Ausgaben waren Personalmittel, 29,7% wurden für Widersprüche und Klagen aufgewendet, 3,7% für Sachkosten und 0,05% für Fortbildungen. Ein Teil der Einnahmen wurde als Absicherung für laufende Klagen mit ins Jahr 2020 genommen. FragdenStaat war über Einzelspenden, verschiedene Förderungen sowie über weitere Finanzierungen durch die OKF DE zu 100% finanziert. <br><br>
+  Einnahmen: 542.644 € 
+  Ausgaben: 331.751 €
+  davon Personalausgaben: 266.121 €
+  davon Sachausgaben: 65.630 € <br><br>
 
 
   **Personal** <br>
 
-  1 Projektleitung (65-90%): Arne Semsrott | 1 Entwickler (100%): Stefan Wehrmeyer | 1 Studentische Hilfskraft (50%): Lea Pfau | 1 Projektmanagerin (90%): Judith Doleschal<br><br>
+  Projektleitung: Arne Semsrott | Entwickler:in: Stefan Wehrmeyer / Magdalena Noffke | Frontend-Developer: Gregor Weichbrodt | Studentische Hilfskraft & Campaignerin: Lea Pfau | Projektmanagerin: Judith Doleschal | Head of Legal: Phillip Hofmann | Rechtsreferendarin: Layla Ansari / Carina Kremmling | Bundesfreiwilligendienstleistender: Max Kronmüller <br><br>
 
   **ehrenamtliche Arbeit** <br>
 
-  ca. 100 h <br><br> 
+  ca. 300 h durch unsere 5 Moderatoren sowie das ehrenamtliche Legal-Team mit 3 Jurist:innen <br><br> 
   
-  **Partner** <br>
+  **Partner:innen** <br>
 
-  foodwatch e. V., Mehr Demokratie e. V., Gesellschaft für Freiheitsrechte, Deutsche Gesellschaft für Informationsfreiheit, Reporter ohne Grenzen, Chaos Computer Club, netzwerk recherche, Access Info, abgeordneten-watch.de<br><br>
+  foodwatch, Deutsche Umwelthilfe, Mehr Demokratie, Gesellschaft für Freiheitsrechte, Deutsche Gesellschaft für Informationsfreiheit, Reporter ohne Grenzen, Chaos Computer Club, netzwerk recherche, Access Info, abgeordneten-watch.de <br><br>
+
+**Förderung** <br>
+  
+  Spenden, Luminate, Schöpflin Stiftung, Wegrand Stiftung, Guerilla Stiftung, Stiftung Mitarbeit, Digital Freedom Fund, sonstige <br><br>
 
 
 achievements: > 
