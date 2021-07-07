@@ -8,11 +8,11 @@ visual:
     img: /assets/images/civictech/codefor.png
     alt: Eine Beschreibung des Textes
 problem:
-- text: Die Civic-Tech-Community in Deutschland besteht aus vielen individuellen Gruppierungen, die mit ähnlichen Problemen konfrontiert sind, aber kein Netzwerk und keine Lobby haben.
+- text: Die Civic-Tech-Community in Deutschland besteht aus vielen individuellen Gruppierungen, die mit ähnlichen Problemen konfrontiert sind, aber bisher vorwiegend regional organisiert sind und keine Lobby haben.
 causes:
 - title: Fehlende Nutzung von Open Data,
   text: >
-    Es gibt bereits aktive Akteure in deutschen Städten, diese agieren aber für sich und ohne Infrastruktur.
+    Bereits aktive Akteur:innen agieren für sich und ohne Infrastruktur. Akteur:innen mit komplementären Fähigkeiten treffen nicht aufeinander.
 
 
     Akteure mit potenziell komplementären Fähigkeiten treffen nicht aufeinander.
@@ -21,7 +21,7 @@ causes:
 - title: fehlendes Bewusstsein
   text: >
     Open Data, Open Source und Open Government sind an vielen Stellen unbekannt oder unverstanden.
-
+   
 
     Die Regierung, Kommunen, Verwaltungen und andere Institutionen arbeiten deswegen stellenweise ineffizient.
 - title: führen dazu, dass
@@ -29,31 +29,28 @@ causes:
       * digitale Innovation in sozialen Bereichen in Deutschland kaum stattfindet,
 
 
+      * bzw. bestehende Lösungsansätze, die von der Community entwickelt wurden, nicht übernommen und verstetigt werden (können),
+       
+      
       * viele Technologien/Werkzeuge in den „Überwachungskapitalismus“ eingebunden sind und somit
 
 
-      * keine nachhaltigen und sicheren alternativen Infrastrukturen bestehen,
-
-
-      * regionale Akteure im Bereich Civic Tech mit ähnlichen Problemen konfrontiert sind und
-
-
-      * es kein stärkendes Netzwerk und keine Lobby gibt.
+      * keine nachhaltigen und sicheren alternativen Infrastrukturen bestehen.
 
 solution:
 - title: lokale Labs
-  text: In lokalen Gruppen treffen sich Ehrenamtliche, die ihre technischen Fähigkeiten dazu nutzen, das gesellschaftliche Zusammenleben positiv zu beeinflussen.
+  text: In lokalen Gruppen treffen sich Ehrenamtliche, die ihre Fähigkeiten dazu nutzen, um das gesellschaftliche Zusammenleben positiv zu beeinflussen.
 - title: Vernetzung
-  text: Im Zuge des Programms werden Entscheidungsträger\*innen und städtische Verwaltungen mit diesen lokalen Gruppen vernetzt, um gemeinsam an nützlichen und innovativen Projekten für die Stadt zu arbeiten.
+  text: Entscheidungsträger:innen und Verwaltungen vernetzen sich mit swe Civic-Tech Community, um gemeinsam an Projekten für die Stadt zu arbeiten.
 - title: Stärkung von Civic Tech in Deutschland
   text: >
-    Es bildet sich eine starke Civic-Tech-Community in Deutschland, offene Daten werden von Bürger\*innen genutzt und durch unsere Beispiele werden Politik & Verwaltungen dazu inspiriert, weitere Daten zu öffnen.
+    Es bildet sich eine starke Civic-Tech-Community in Deutschland, Offene Daten werden von Bürger:innen genutzt und durch unsere Beispiele 
+   werden Politik & Verwaltungen dazu inspiriert, weitere Daten zu öffnen und bessere, nutzerfreundliche Anwendungen bereitzustellen.
 
 effect:
 - title: auf die Community
   text: Die Community hat einen lokalen Treffpunkt, trifft sich regelmäßig und ist vernetzt.
 - title: auf Entwickler*innen
-  text: Fördermittel werden als viable Möglichkeit angesehen, Projekte umzusetzen.
   text: Open Source und User Experience Design als Konzepte werden weiterverbreitet.
 - title: auf die Gesellschaft
   text: >
@@ -66,7 +63,7 @@ effect:
     Regierungen werden transparenter.
 
 
-    Bürger\*innen sind besser informiert und mehr Bürger\*innen beteiligen sich dank digitaler Tools.
+    Bürger:innen sind besser informiert und mehr Bürger:innen beteiligen sich dank digitaler Tools.
 
 
     Das Bewusstsein für Open Source, Open Data und Open Government steigt.
@@ -74,94 +71,79 @@ effect:
 resources: >
 
   **Laufzeit** <br>
-  Das Projekt läuft seit April 2014 durchgehend.
+  Das Projekt läuft seit April 2014.
   <br><br>
 
   **Budget** <br>
-  Im Jahr 2019 betrug das Gesamtbudget 98.584,37 €.
-  <br><br>
-
-  **Förderer** <br>
-  Körber Stiftung, einzelne Städte (etwa Köln und Bonn) zur Förderung der lokalen OK-Labs, Geldgeber für einzelne Projekte wie die Bertelsmann Stiftung (Musterkatalog Open Data), Spenden, Querfinanzierung OKF DE
-  <br><br>
+  Einnahmen: 84.116 €
+  Ausgaben: 65.210 €
+  davon Personalausgaben: 41.101 €
+  davon Sachausgaben: 24.109 €
+    <br><br>
 
   **Personal** <br>
-  1 Community Manager: Michael Peters sowie zahlreiche Ehrenamtliche
+  Projektleitung: Michael Peters (bis April) | Projektmanagerin: Claudia Jach
   <br><br>
-
-  **Ehrenamtliche Arbeit** <br>
+  
+  **ehrenamtliche Arbeit** <br>
   ca. 500 Ehrenamtliche mit geschätzt 10.000 Stunden ehrenamtlicher Arbeit
   <br><br>
+  
+   **Partner:innen** <br>
+  Code for All, nexus Institut
+<br><br>
 
+  **Förderung** <br>
+  Körber-Stiftung, Deutsche Postcode Lotterie, Umweltbundesamt, Spenden, sonstige
+  <br><br>
 
+ 
 achievements: >
-  * OK-Labs: regelmäßige Meetings, öffentliche Events, Workshops für Anfänger\*innen, Hackdays
+  * Im Jahr 2020 konnten wir mit einer Förderung der Deutschen Postcode Lotterie den Themenbereich zu Umwelt und Nachhaltigkeit stärker ausbauen. Unter dem Motto “Code for Climate” haben sich zahlreiche Labs damit auseinandergesetzt, wie sich Offene Daten nutzen lassen, um kommunale Klimaschutzbemühungen sichtbarer und nachvollziehbarer zu gestalten. Dazu gehörte auch, die Folgen von Technologieeinsatz kritisch zu bewerten und sich um nachhaltige digitale Anwendungen zu bemühen. Dies war auch unser Fokus beim Open Data Day 2020 mit den einzigen Lab-Veranstaltungen, die wir aufgrund der Coronapandemie noch offline abhalten und besuchen konnten. In Berlin, Hamburg, Karlsruhe, Leipzig, Münster und Osnabrück wurde intensiv getüftelt, diskutiert und gelernt. Die Förderung der Postcode Lotterie ermöglichte es uns außerdem, unsere Website inhaltlich, technisch sowie vom Design zu überarbeiten. Im Projekt [Digitale Kommune](https://nexusinstitut.de/digitale-kommune-digitale-region-soziokulturelle-auswirkungen-durch-digitalisierung-und-kuenstliche-intelligenz/), das wir seit 2019 mit dem nexus-Institut durchführen, entwickeln wir partizipative Strategieansätze für eine nachhaltige Digitalisierung in Kommunen und Regionen. Schwerpunkt unseres Arbeitspakets ist die Erarbeitung von Handreichungen.
 
-  * Kommunikation: Community Manager trägt Aktivitäten der OK-Labs nach außen, unterstützt bei der Pressearbeit
+  * Am 25. Juni startete das neu gegründete OK Lab Bielefeld. Zum digitalen Kick-Off stellten sie ihre Partner:innen und spannende erste Projekte vor, u.a. zu umweltfreundlichem und sicherem Stadtverkehr mit der Initiative Radentscheid Bielefeld. Gemeinsam mit der Körber-Stiftung haben wir 2020 erneut das [Forum Offene Stadt](https://offenestadt.info/#rueckblick) ausgerichtet und uns dieses Mal vor allem mit der Frage von Resilienz von Städten bzw. Stadtgesellschaften beschäftigt. Die Teilnehmenden haben diskutiert, wie Bürger:innen bei der Gestaltung der Städte einbezogen werden können und wie Kommunen die Expertise erlangen, mit Herausforderungen wie der Klima- oder Coronakrise umzugehen. Wie alle haben auch wir - nicht nur in diesem Rahmen - mit online Formaten und Tools experimentiert, um den Austausch untereinander auch ohne persönliche Treffen möglich zu machen. 
 
-  * Veranstaltung des OK-Labs in Hamburg: [_FORUM Offene Stadt Hamburg_](https://offenestadt.info/#rueckblick)
-
-  * Community Summit in Hamburg: Austausch- und Innovationsfestival
-
-  * Wahlsalon: Wahldaten-Hackathon, um demokratische Prozesse zugänglicher zu machen
-
-  * 2 neue OK-Labs: Darmstadt, Saarbrücken
-  
-  * Arbeit am Open-Data-Musterdatenkatalog mit der Bertelsmann Stiftung (Veröffentlichung 2020)
-  
-  * Wikidata-Workshop mit Wikimedia Deutschland
-  
-  * Open-Data-Day-Veranstaltungen in 8 Städten
-
+  * Als weiteren Schwerpunkt haben wir 2020 u. a. als Reaktion auf den [WirVsVirus Hackathon](https://wirvsvirus.org/) unseren Blick verstärkt nach innen gerichtet, unsere Netzwerkstrukturen überdacht, Herausforderungen in der Arbeit zwischen Haupt- und Ehrenamt angesprochen und begonnen, uns über mögliche Lösungsansätze Gedanken zu machen und darüber in den Austausch zu treten. Dieser Prozess wird uns auch im folgenden Jahr begleiten. 
 
 outputs: >
-  * über 500 vernetzte ehrenamtliche Programmierer\*innen, die sich regelmäßig treffen
+  * Im Netzwerk treffen sich regelmäßig über 500 digital Ehrenamtliche
 
-  * 26 aktive OK-Labs in Deutschland, die sich mit ihren Gemeinden vernetzen
+  * In diesem Jahr wurden 3 neue OK-Labs gegründet: Bielefeld, Bad Belzig, Cottbus
 
-  * zahlreiche Projekte, die den Nutzen von offenen Daten aufzeigen
+  * Es gibt mittlerweile 28 aktive OK-Labs in Deutschland, die sich mit ihren Gemeinden vernetzen
 
-  * ca. 15 Vorträge im In- und Ausland sowie Policy-Arbeit in Deutschland
+  * Im Netzwerk werden zahlreiche Projekte umgesetzt, die den Nutzen von Offenen Daten aufzeigen
+  
+  * OK-Labs: regelmäßige Austauschtreffen Lab-intern und Lab-übergreifend v. a. online, themenspezifische Veranstaltungen (z. B. zu Mobilität, Klima), Workshops für Einsteiger:innen am Open Data Day, Beratung, Aufbau und Pflege von digitaler Infrastruktur durch die ehrenamtliche Community
+  
+  * Der [Open-Data-Musterdatenkatalog](https://www.bertelsmann-stiftung.de/de/unsere-projekte/smart-country/musterdatenkatalog#leitfaden) wurde zusammen mit der Bertelsmann Stiftung veröffentlich
+  
+  * Das [Handbuch zu Krisenresilienz von Verwaltungen](https://codefor.de/documents/Handbuch-Krisenresilienz.pdf) wurde veröffentlicht
+  
+  * Am 07.03. wurden in sechs Städten Veranstaltungen zum Open-Data-Day organisiert
+  
+  * Am 06.11. fand mit dem [Forum Offene Stadt](https://offenestadt.info/#rueckblick) die größte Veranstaltung des Netzwerks statt
 
 outcome: >
-  * es bildet sich eine starke Civic-Tech-Community in Deutschland
-
-  * offene Daten werden von Bürger\*innen genutzt
-
-  * durch unsere Beispiele werden Politik & Verwaltungen dazu inspiriert, weitere Daten zu öffnen
-
+  * Es bildet sich eine starke Civic-Tech-Community in Deutschland. Die Frage der Resilienz, die v. a. seit der Coronapandemie die Verwaltungen verstärkt beschäftigt, hat viele Themen des Code-for-Germany-Netzwerks berührt. 
+  
+  * Die über Jahre gesammelte Expertise und die Kontakte zu lokalen Verwaltungen waren deshalb nachgefragt. Wir haben darauf reagiert, indem wir u.a. das Handbuch “Krisenresilienz von Verwaltungen – Was brauchen wir, damit die (kommunalen) Verwaltungen langfristig für Krisen ausgestattet sind” veröffentlicht haben. In diesem Rahmen haben wir auch gemeinsam mit dem Deutschen Städtetag zu einer Veranstaltung mit interessierten Kommunen geladen. Offene Daten werden von Bürger:innen genutzt. 
+  
+  * Durch unsere Beispiele werden Politik & Verwaltungen dazu inspiriert, weitere Daten zu öffnen. Als Reaktion auf den WirVsVirus Hackathon fand eine kritische Aufarbeitung des WirVsVirus Hackathon durch die Ehrenamtlichen statt, die besonders die strukturellen Defizite von Event-orientierter Innovationspolitik in den Blick nahm.
 
 impact:  >
-  * Regierungen werden transparenter
-
-  * Bürger\*innen sind besser informiert, mehr Bürgerbeteiligung via digitale Tools
-
-  * Bewusstsein für Open Source, Open Data und Open Government steigt
-
-  * Nebenwirkung: Kommunen und Verwaltungen arbeiten effizienter
-
-  * Nebenwirkung: Menschen setzen ihre technischen Fähigkeiten für etwas Gutes ein
-
-  * Nebenwirkung: mehr technische Mündigkeit (Data Literacy)
+  Durch unsere Bemühungen um Use Cases, Veröffentlichungen und Veranstaltungen werden Verwaltungen und Regierungen transparenter. Dies führt dazu, dass Bürger:innen besser informiert sind und sich daher mehr zutrauen, bei der Bürgerbeteiligung und Mitsprache. Das Bewusstsein für die Wichtigkeit von Open Source, Open Data und Open Government für das Gemeinwohl steigt. Wir erkennen als gute Nebenwirkungen, dass Kommunen und Verwaltungen effizienter arbeiten, Menschen ihre technischen Fähigkeiten für etwas Gutes einsetzen und mehr technische Mündigkeit (Data Literacy) entsteht. 
 
 evaluation: >
-  Im Jahr 2019 wurden neue Strukturen innerhalb von Code for Germany wie beispielsweise der Community-Rat erprobt und neue Austauschformate wie der Community Summit ins Leben gerufen. Neben der digitalen Zusammenarbeit haben wir also verstärkt darauf gesetzt, den Freiwilligen auch analog Plattformen zum Austausch zu bieten. Es hat sich gezeigt, dass das Interesse an und die Bedeutung von Open Data und Open Government weiterhin wächst, sichtbar u. a. an den Neugründungen von OK-Labs.
+  Im Jahr 2020 war die Expertise des Code-for-Germany-Netzwerks stark nachgefragt. Die Coronapandemie hat den Bedarf an Digitalisierung in kommunalen Verwaltungen vor Augen geführt. Die Ehrenamtlichen haben ihre Expertise mit Fokus auf Open-Source-Strukturen und Offene Daten zur Verfügung gestellt. Dieser Prozess hat uns auch vor Herausforderungen in unseren eigenen Netzwerkstrukturen gestellt.
 
 outlook: >
-  Thematisch bewegen uns aktuell vor allem Umwelt- und Naturschutz und Bemühungen rund um die Einhaltung der internationalen Klimaziele. In Zukunft möchten wir Offene Daten noch stärker in den Dienst des Klimaschutzes stellen und zeigen, welchen Beitrag Civic Tech an dieser Stelle leisten kann. Wir sehen unsere Labs auch als Diskussionsort für andere interessierte Gruppen, um gemeinsam an einem Strang zu ziehen. Wir stellen weiterhin Tools für die öffentliche digitale Infrastruktur zur Verfügung, um nach Prinzipien des Open Government offen und ko-kreativ mit Politik und Verwaltung Ideen zu entwickeln und Lösungen zu erarbeiten. 
+  2021 werden wir uns mit der internen Re-Organisation unseres Netzwerks, v. a. im Verhältnis zwischen den Labs und Hauptamtlichen auseinandersetzen. Die Labs haben das große Potenzial, interessierte Open-Government- Aktivist:innen und Expert:innen zusammenzubringen. Dies zeigt das anhaltende Interesse an Lab-Gründungen. Das Netzwerk möchte sich auch auf politische Arbeit konzentrieren, um bereits erprobte Tools für die öffentliche digitale Infrastruktur an die öffentliche Hand übergeben zu können und in die Verstetigung zu führen. 
 
 
 ---
 
 
-# Netzwerk zur Förderung von Civic Tech und Open Data in Deutschland
+# Das Projekt
 
-Code for Germany ist ein Netzwerk von ehrenamtlichen Entwickler\*innen, Designer\*innen und interessierten Bürger\*innen, das Menschen zusammenbringt, die an nachhaltigen digitalen Projekten für eine offene und gerechte Gesellschaft arbeiten. Zentrales Thema ist dabei, wie Daten, Informationen und Wissen so aufbereitet werden können, dass sie möglichst vielen Menschen zugänglich sind. Dadurch sollen die Beteiligung von Bürger\*innen an demokratischen Prozessen gestärkt, ihr Lebensalltag erleichtert und die verschiedenen Teile der Gesellschaft zu mehr Beteiligung motiviert werden.
-
-In sogenannten Open Knowledge Labs (OK-Labs) treffen sich Freiwillige regelmäßig in ihren Städten, um dies möglich zu machen. Sie diskutieren über Strategien des Open Government und entwickeln digitale Lösungen für Probleme und Bedürfnisse, die sie in ihren Städten und Nachbarschaften identifiziert haben. Diese Projekte entstehen auf der Grundlage von Offenen Daten und Open Source Software und zeigen dadurch den Mehrwert dieser Ansätze auf. Die Anwendungen, die dabei entstehen, haben eine große thematische Vielfalt und beziehen sich zum Beispiel auf Fragen um Mobilität, politische Teilhabe, Zugang zu Kultur oder Umweltschutz.
-
-Im Jahr 2019 gab es neben dieser fortlaufenden Arbeit zahlreiche Veranstaltungen, um Verwaltung, Politik und Freiwillige auch außerhalb der OK-Labs zusammenzubringen und das demokratische Potenzial Offener Daten näher zu beleuchten. Hierzu zählt etwa das _FORUM Offene Stadt_ in Hamburg in Kooperation mit der Körber Stiftung, auf dem Ansätze rund um die Beteiligung digitaler Zivilgesellschaft besprochen wurden. Erstmals fand auch der _Code for Germany Community Summit_ statt, der Ehrenamtlichen aus den OK-Labs über zwei Tage hinweg gezielt die Möglichkeit zum Networking und kreativen Austausch bot.
-
-Zum Superwahljahr 2019 fand außerdem der _Wahlsalon_ statt, ein zweitägiges Event, auf dem die Grundsteine für Projekte zur Information von Wähler\*innen sowie digitale Werkzeuge, die Wähler\*innen zur Beteiligung motivieren, gelegt wurden. Zusätzlich wurde in Zusammenarbeit mit der Bertelsmann Stiftung über das Jahr hinweg intensiv an einem Musterdatenkatalog gearbeitet, mit dem alle Kommunen in Deutschland Informationen zur Aufbereitung öffentlicher Daten als Offene Daten erhalten sollen.
-
-Durch die Unterstützung von Wikimedia Deutschland hatten unsere Freiwilligen zudem die Möglichkeit, sich näher mit der Wissensdatenbank Wikidata auseinanderzusetzen und Projekte aus diesem Datenbestand zu entwickeln. Auch zum _Open Data Day_ haben viele OK-Labs wieder ein vielfältiges Programm für Interessierte zusammengestellt und zum Mitmachen eingeladen.
+Code for Germany ist ein Netzwerk von ehrenamtlichen Menschen, die an nachhaltigen digitalen Projekten für eine offene und gerechte Gesellschaft arbeiten. Zentrales Thema ist dabei, wie Daten, Informationen und Wissen so aufbereitet werden können, dass sie möglichst vielen Menschen zugänglich sind. Dadurch sollen die Beteiligung von Bürger:innen an demokratischen Prozessen gestärkt und ihr Lebensalltag erleichtert werden. In den Open Knowledge Labs (OK Labs) treffen sich Freiwillige regelmäßig in ihren Städten, um dies möglich zu machen. Sie diskutieren über Strategien des Open Government und entwickeln digitale Lösungen für Probleme und Bedürfnisse, die sie in ihren Städten und Nachbarschaften identifiziert haben.
