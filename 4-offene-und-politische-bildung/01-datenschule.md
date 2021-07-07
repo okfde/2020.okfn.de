@@ -41,99 +41,73 @@ effect:
 - title: gesellschaftliche Wirkung
   claim: >
       Digitale Fähigkeiten ermöglichen es, selbstbewusst mit Daten und Technologien umzugehen. Durch den mündigen und reflektierten Umgang mit Daten und Technologien werden öffentliche Debatten informierter und faktenbasiert geführt. Digitale Fähigkeiten stärken die Mitsprache und Teilhabe der Gesellschaft an politischen Entscheidungen und damit die politischen Partizipation insgesamt.
+      
 resources: >
 
-  Das Projekt begann im August 2016 und läuft seitdem durchgehend.
+  Das Projekt läuft seit August 2016. Die Umweltdatenschule fand zwischen April 2019 und September 2020 statt.
   <br><br>
 
   **Budget** <br>
-  Das Projekt ist zu 100% finanziert und lief im Jahr 2019 im Rahmen der Verbändeförderung des Bundesumweltministeriums und des Umweltbundesamtes unter dem Namen Umweltdatenschule. Das Budget für 2019 betrug 82.505,91 € inkl. einem Eigenanteil von 10%.
+  Einnahmen: 70.186 €
+  Ausgaben: 70.126 €
+  davon Personalausgaben: 69.019 €
+  davon Sachausgaben: 1.107 €
   <br><br>
 
   **Personal** <br>
-  1 Projektleitung (10-35%): Arne Semsrott | 1 technische Leitung (50%): Lisa Passing |  1 Workshopkonzeption (70%): Lydia Böttcher/Maximilian Voigt | 1 Kommunikationsstelle (60-80%): Jasmin Helm/Maximiian Voigt
+  Projektleitung: Arne Semsrott | Entwickler:in: Lisa Passing / Stefan Wehrmeyer| Projektmanager: Maximilian Voigt
   <br><br>
 
-  **Partner** <br>
-  Kooperationspartner im Jahr 2019 waren der [Robin Wood e. V.](https://www.robinwood.de/) zum Thema Ökostrom in Deutschland sowie [FragDenStaat](../../open-government/fragdenstaat/) zum Schwerpunkt Umweltinformationsgesetz (UIG).
+  **Partner:innen** <br>
+  FragDenStaat zum Schwerpunkt Umweltinformationsgesetz (UIG)
   <br><br>
+
+  **Förderung** <br>
+  Umweltbundesamt
+  <br><br>
+
 achievements: >
     
 
-    * 4 Workshops in Berlin, Cottbus und Potsdam mit dem Fokus offene Umweltdaten
+    * Die 2019 konzipierten Workshops “Mit Umweltdaten Gutes tun!” und “Excel & Data Magic” wurden in diesem Jahr weiter durchgeführt. Darüber hinaus nutzte die OKF DE weitere Gelegenheiten, die Themen der Umweltdatenschule einer Öffentlichkeit zugänglich zu machen, z.B. bei einem Datenspaziergang. 
+    
+    * Im Projekt ergab sich zudem die Kooperation mit der Umweltorganisation Robin Wood, mit der die OKF eine datenbasierte Publikation gemeinsam auf den Weg gebracht: der [Ökostromreport 2020](https://datenschule.de/blog/2020/01/Hintergr%C3%BCnde-zum-%C3%96kostrombericht-2020/). 
 
-    * Recherche mit Robin Wood zu Ökostromanbietern und Veröffentlichung des [Ökostromreport 2020](https://www.robinwood.de/oekostromreport)
+    * Außerdem haben wir uns dem Thema [Wasserqualität](https://datenschule.de/blog/2020/03/Wasserqualit%C3%A4t-messen-wir-starten-Projekt-OpenWaterData/) gewidmet. Mit der globalen Erwärmung und dem industriellen Wirtschaften steigt die Belastung der Wasservorkommen. Diese frühzeitig zu erkennen ist eine wichtige Maßnahme. Kollaborativ gesammelte und offene Daten können dabei helfen. Wir haben einen Testaufbau entwickelt, mit dem Akteur:innen selbstständig Daten zur Wasserqualität erheben und in einer zentralen Datenbank speichern können. 
 
-    * Unsere Recherche mit Robin Wood und Arbeit mit der Umweltdatenschule stellten wir auf dem [36. Chaos Communication Congress in Leipzig](https://media.ccc.de/v/36c3-10682-das_bits_baume-sporangium#t=1612) und auf dem Hackathon der Naturfreunde Jugend in Berlin vor.
-
-    * Auf dem Berliner Open Data Day (BODDy) 2019 sprachen wir über offene Umweltdaten.
-
-
-   
-    Außerhalb des Themenfeldes Umweltdaten und des geförderten Projektes fanden weitere Datenschule-Workshops statt:
-
-    * Workshops zu Datenanalyse und -visualiserung [in Tunis und Amman](https://datenschule.de/blog/2020/02/Die-Datenschule-auf-Tour/) in Zusammenarbeit mit Global Project Partners e. V. und dem Digital Arabia Network
-
-    * 1 _Datenspaziergang_ in Berlin Moabit für ein Vernetzungstreffen der Grünen
-
-    * 1 Abendvortrag zum Thema Data Literacy für die Betterplace Academy 
-
-    * 1 Fortbildung zum Umgang mit Daten in Excel in Köln
+    * Die Schlussphase des Projektes konzentrierte sich auf die Konsolidierung der erstellten Materialien und der Öffentlichkeitsarbeit in Form von Blogbeiträgen, Social Media Aktivitäten und Datenbereitstellungen.
 
 outputs: >
-    * 4 Workshops zum Thema Umweltdaten und UIG konzipiert, Durchführung 8x
+    * Am 29. Januar fand ein Datenspaziergang mit den Grünen in Berlin-Mitte statt. 
 
-    * 3 Lernmaterialien erstellt und als OER publiziert
+    * Am 8. Februar wurde der Workshop “Mit Umweltdaten Gutes tun!” in der machBar in Potsdam durchgeführt. 
 
-    * 1 Datensatz zu Ökostromanbietern in Deutschland recherchiert und als Open Data veröffentlicht
+    * Am 20. Februar fand der Workshop “Excel & Data Magic” in Köln statt. 
 
-    * über 1.200 Follower auf Twitter
-
-    * ca. 3.240 Besucher\*innen auf der Webseite
-
-    * 207 Newsletterabonnent\*innen (450 vor DSGVO) 
+    * Der Ökostromreport 2020 wurde im Januar zusammen mit Robin Wood veröffentlicht. Der Bericht vergleicht Ökostromanbieter in Bezug auf wirtschaftliche Verflechtungen zu Unternehmen der Kohle- und Atomenergie sowie auf ihr Engagement für eine nachhaltige Energiewende. Der Report soll Verbraucher:innen eine Hilfestellung bei der Auswahl eines Stromanbieters sowie mehr Transparenz über den Markt geben. Gemeinsam mit Robin Wood wurden Ökostromtarife recherchiert und bewertet. Die Basis des Berichtes bilden Daten, die im Rahmen des Projektes zusammengetragen wurden ([Datensätze](https://github.com/Datenschule/oekostromreport-data/tree/gh-pages/assets/data)). Mit [North Data](https://www.northdata.de/) lassen sich beispielsweise wirtschaftliche Verflechtungen von Unternehmen analysieren, die über Pflichtveröffentlichungen, z.B. durch die Bekanntmachungen des Handelsregisters, einsehbar sind. Allerdings sind die grundlegenden sowie die aufbereiteten Daten keine Open Data. Einige der Daten stehen über [OffeneRegister.de](https://offeneregister.de/) zur Verfügung. Andere Quellen, besonders, wenn es um die Beteiligungen von Städten oder Kommunen an Unternehmen oder Kraftwerken geht, sind die Beteiligungsberichte. Hier muss die jeweilige Stadt oder der Kreis jährlich auflisten, in welche Bereiche investiert wurde. Der Ökostromreport 2020 ist aus unserer Sicht ein sehr gelungenes Praxisbeispiel für die Anwendung von Daten im Umweltbereich.
+    
+    * Auf der Website der Datenschule finden sich Blogbeiträge, Workshopmaterialien, Veranstaltungshinweise, Publikationen und sonstige Texte zum Thema Umwelt und Daten. Öffentlichkeitsarbeit wurde zudem über den Twitter-Account der Datenschule (@datenschule) betrieben. Dieser Account hat ca. 1.300 Follower und trug zur bundesweiten Verbreitung der Inhalte bei. Inhaltlich passende Inhalte wurden außerdem über die Twitter-Kanäle der OKF (@okfde), Code for Germany (@codeforde) und edulabs.de (@edulabsde) verbreitet.
 
 outcome: >
-  * Gemeinnützige Organisationen und Umweltverbände lernen, die Qualität von (ihren) Daten zu bewerten und zu verbessern. Sie nutzen digitale Methoden, Werkzeuge und Informationen zielgerichtet im Arbeitsalltag und beteiligen sich als Impulsgeber*innen an öffentlichen gesellschaftspolitischen Debatten.
+  * Wie stark ist das Grundwasser in meiner Region mit Nitrat belastet? Welche Insektenarten sind in Deutschland am stärksten vom Aussterben bedroht? Mit diesen Fragen war die Umweltdatenschule gestartet. Aus unserer Sicht wurden die Ziele der Umweltdatenschule erreicht: Wissen und Kompetenzen wurden an Umweltorganisationen vermittelt, um die zunehmend zugänglichen digitalisierten Umweltdaten mit gesellschaftspolitischer Relevanz für ihre Kampagnenarbeit oder Strategieentwicklung zu nutzen. Umweltorganisationen sind nach Absolvierung der Workshops in der Lage, eigene erfolgreiche datengetriebene Projekte zu entwickeln, dabei digitales Ehrenamt zu fördern und zu nutzen und nach ethischen Prinzipien in der digitalen Arbeit offenes Wissen für dauerhafte Innovationskraft nachhaltig stärken. Entwickelte Materialien werden der Allgemeinheit zur Nachahmung zur Verfügung gestellt.
 
-  * Förderung von digitaler Innovation im gemeinnützigen und umweltaktivistischen Bereich
+  * Die Verzahnung zwischen der Umweltdatenschule und Netzwerken von digitalen Ehrenamtlichen der OKF DE hat sehr gut funktioniert. Ehrenamtliche aus den OKF-Projekten Code for Germany und Jugend hackt haben an der Erstellung von Inhalten der Umweltdatenschule mitgewirkt und zu ihrer Verbreitung beigetragen. Durch das Engagement der OKF DE in der Initiative [Bits & Bäume](https://bits-und-baeume.org/de), die sich dezidiert der Schnittstelle zwischen digitaler Welt und Umweltschutz widmet, konnten positive Effekte für die Umweltdatenschule erreicht werden: Als Mitgliedsorganisation im Trägerkreis der Initiative kommt die OKF mit einer Vielzahl von Organisationen aus dem Umweltschutz in Kontakt und kann auf ihre Expertise und Veranstaltungen hinweisen. Die Vermessung der Umwelt ist insbesondere in ländlichen Räumen ein wichtiges Unterfangen. Denn dort befinden sich die wirtschaftlich genutzten Flächen. Andererseits gibt es deutschlandweit zahlreiche [Offene Werkstätten](https://www.offene-werkstaetten.org/) - wie Fab Labs, [Open Knowledge-Labs](https://codefor.de/), Hacker- und Makerspaces, in denen sich interdisziplinäre Communities mit technischen Fragen beschäftigen. Außerdem treten die Werkstätten häufig als technische Bildungsstätten auf. So entstand eine Kooperation mit dem [Netzwerk Offener Werkstätten Brandenburg](https://offene-werkstaetten-brandenburg.de/), mit dem wir testweise zwei Workshops in Potsdam und Cottbus veranstalteten. Die insgesamt 40 Teilnehmenden bildeten interdisziplinäre Workshop-Gruppen und kamen aus öffentlichen Einrichtungen, von Universitäten, Umweltorganisationen oder als Privatperson. Dadurch entwickelten sich lokale Projektgruppen und Organisationen, die sich gegenüber der Datenthematik öffneten und lokal Kontakte knüpfen konnten.
 
 impact: >
-  * Eine größere digitale Mündigkeit in der Gesellschaft stärkt die Teilhabe an gesellschaftspolitischen Fragestellungen und macht soziale Innovation möglich.
-
-  * Die Gesellschaft ist besser informiert, kann sich an politischen Prozessen und Entscheidungen besser beteiligen. Dies stärkt die Demokratie.
+    Gemeinnützige Organisationen und Umweltverbände lernen, die Qualität von (ihren) Daten zu bewerten und zu verbessern. Sie nutzen digitale Methoden und Informationen zielgerichtet im Arbeitsalltag und beteiligen sich als Impulsgeber:innen an öffentlichen gesellschaftspolitischen Debatten. Das Projekt fördert zudem digitale Innovation im gemeinnützigen und umweltaktivistischen Bereich. Die Gesellschaft ist besser informiert, kann sich an politischen Prozessen und Entscheidungen besser beteiligen. Dies stärkt die Demokratie.
 
 evaluation: >
 
-    * Das Messen der Projektwirkung und die Evaluation der Aktivitäten erfolgen nach zuvor festgelegten Qualitätsindikatoren.
-
-    * Die Wirkung der Workshops wird nach einem [Data Literacy Maturity Modell](https://datenschule.de/files/workshops/DataLiteracy-MaturityModel-Datenschule.pdf) evaluiert (und bei z. B. Workshops eingesetzt).
-
-    * Bei Partnerprojekten gibt es zusätzliche Beratungs- und Monitoringinstanzen mit externen Expert\*innen (Roundtables und Stakeholder-Dialoge, Interviews, Feedback-Runden).
-
-    * Erkenntnisse aus unseren Aktivitäten werden regelmäßig auf dem Blog der Datenschule und der Referenzen-Seite zugänglich gemacht.
-
+     Das Messen der Projektwirkung und die Evaluation der Aktivitäten erfolgen nach zuvor festgelegten Qualitätsindikatoren. Die Wirkung der Workshops wird nach einem [Data Literacy Maturity Modell](https://datenschule.de/files/workshops/DataLiteracy-MaturityModel-Datenschule.pdf) evaluiert (und beispielsweise bei Workshops eingesetzt). Bei Partnerprojekten gibt es zusätzliche Beratungs- und Monitoringinstanzen mit externen Expert:innen (Roundtables und Stakeholder-Dialoge, Interviews, Feedback-Runden). Erkenntnisse aus unseren Aktivitäten werden regelmäßig auf dem Blog der Datenschule und der Referenzen-Seite zugänglich gemacht.
+    
 outlook:  >
 
-      * Für gemeinnützige Organisationen ist der digitale Raum ein wichtiger Interaktionsort, den sie stärker mitdenken wollen. Das Angebot der Datenschule möchten wir zukünftig skalieren, um den Bedürfnissen der sozialen Organisationen flächendeckender zu begegnen.
-
-      * Risiken: Um digitale Kompetenzen in den Organisationen nachhaltig zu stärken, bedarf es besserer Strukturen zur Förderung der praktischen Auseinandersetzung mit der Digitalisierung. 
-
-      * Als gemeinnützige Initiative werden wir daher auch in Zukunft kostenlose Workshops und Lernformate anbieten, um die Beteiligung vieler Initiativen mit knappen Ressourcen zu ermöglichen. Dieser Hürde wird zudem versucht, durch das Aufbereiten aller notwendigen Inhalte und Konzepte und durch das Bereitstellen der Lernmaterialien unter freier Lizenz entgegenzuwirken. Workshopkonzepte sind zur Nachnutzung mit detaillierten Erläuterungen aufbereitet und können personenunabhängig umgesetzt werden.
-
+     Mit dem Auslaufen der Projektförderung für die Umweltdatenschule enden unsere themenspezifischen Projekte, das kostenlose Workshopangebot sowie das generelle Angebot der Datenschule. Mittlerweile gibt es einige Organisationen und Akteur:innen der Zivilgesellschaft, die im Bereich data literacy Kurse und Workshops anbieten und in diesem Feld aktiv sind. Die entwickelten [Lernmaterialien](https://datenschule.de/lernmaterialien/), die unter einer freien Lizenz veröffentlicht wurden, stehen der Öffentlichkeit weiterhin zur Verfügung. Workshopkonzepte sind zur Nachnutzung mit detaillierten Erläuterungen aufbereitet und können personenunabhängig umgesetzt werden.
 
 
 ---
 
 
-# Vermittlung von Datenkompetenzen
+# Das Projekt
 
-Daten sind eine weitestgehend ungenutzte Ressource in zivilgesellschaftlichen Organisationen. Nur wenige Organisationen verfügen über die fundierte digitale Expertise und über die Tools, um aussagekräftige Erkenntnisse aus Daten zu ziehen und ihre Anliegen mit Beweisen zu belegen. Ohne den Zugang zu digitalen Fähigkeiten bleibt zudem einem erheblichen Teil der Bevölkerung die Teilhabe an öffentlichen Diskursen erschwert – dies behindert nicht zuletzt auch die Wahrnehmung von Menschenrechten.
-
-Die Schnelligkeit der technischen Veränderungen stellt zivilgesellschaftliche Akteure vor neue Herausforderungen. Viele verlieren den Anschluss an aktuelle öffentliche Debatten im Themenfeld der Digitalisierung; zivilgesellschaftliche Themen sind im digitalen Raum unterrepräsentiert. Dies liegt wiederum daran, dass viele neue Konzepte und Begrifflichkeiten von technik-affineren Unternehmen geprägt werden. Angebote zur Förderung digitaler Kompetenzen im zivilgesellschaftlichen Bereich gibt es nur wenige. Um genau diese langfristig auch bei den zivilgesellschaftlichen Organisationen auszubauen, bedarf es Formaten, die die Bedürfnisse und Diversität der gemeinnützigen Akteure in Deutschland berücksichtigen.
-
-Die Datenschule ist ein Bildungsangebot zur Förderung von digitalen Kompetenzen im gemeinnützigen Bereich.
-
-* Wir kooperieren mit gemeinnützigen Akteuren und entwickeln digitale Lösungsansätze für gesellschaftliche Herausforderungen.
-* Wir führen Workshops durch und erstellen Materialien, die NGOs dazu befähigen, Daten und Technologien zielgerichtet zu nutzen.
-* Wir vernetzen die Tech- und NGO-Welt miteinander, um die Wirkung von gemeinnützigen Projekten zu stärken.
+Die Datenschule ist ein Bildungsangebot zur Förderung von digitalen Kompetenzen im gemeinnützigen Bereich. Wir kooperieren mit gemeinnützigen Organisationen und entwickeln digitale Lösungsansätze für gesellschaftliche Herausforderungen. Wir führen Workshops durch und erstellen Materialien, die NGOs dazu befähigen, Daten und Technologien zielgerichtet zu nutzen. Wir vernetzen die Tech- und NGO-Welt miteinander, um die Wirkung von gemeinnützigen Projekten zu stärken. Das Projekt setzt einen Schwerpunkt auf Daten im Umweltbereich.
