@@ -46,7 +46,7 @@ Datum des letzten Feststellungsbescheids: 23.02.2021<br>
 Ausstellendes Finanzamt: Finanzamt für Körperschaften I Berlin<br>
 Erklärung des gemeinnützigen Zwecks: Förderung von Wissenschaft und Forschung, Förderung der Volks- und Berufsbildung sowie der Studentenhilfe
 
-**Arbeitnehmer*innenvertretung**<br>
+**Arbeitnehmer:innenvertretung**<br>
 nicht vorhanden<br>
 
 **Mitgliedschaften**<br>
