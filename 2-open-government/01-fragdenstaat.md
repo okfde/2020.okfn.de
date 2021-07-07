@@ -81,7 +81,7 @@ resources: >
 
   foodwatch, Deutsche Umwelthilfe, Mehr Demokratie, Gesellschaft für Freiheitsrechte, Deutsche Gesellschaft für Informationsfreiheit, Reporter ohne Grenzen, Chaos Computer Club, netzwerk recherche, Access Info, abgeordneten-watch.de <br><br>
 
-**Förderung** <br>
+  **Förderung** <br>
   
   Spenden, Luminate, Schöpflin Stiftung, Wegrand Stiftung, Guerilla Stiftung, Stiftung Mitarbeit, Digital Freedom Fund, sonstige <br><br>
 
