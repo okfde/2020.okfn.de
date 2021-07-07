@@ -27,7 +27,7 @@ chapter:
     - label: Angestrebte Wirkung
       key: effect
   outcomes:
-    - label: Erbrachte Leistungen
+    - label: inhaltliche Schwerpunkte
       key: achievements
     - label: Erbrachte Gesamtleistungen
       key: total_achievements
