@@ -1,9 +1,9 @@
 ---
 layout: page
-chapter: 2.1
+chapter: 2.2
 title: FragDenStaat
 website: https://fragdenstaat.de
-permalink: /projekte/fragdenstaat/
+permalink: /open-government/fragdenstaat/
 visual:
     img: /assets/images/opengovernment/fragdenstaat.png
     alt: Illustration
