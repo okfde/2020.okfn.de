@@ -92,6 +92,123 @@
   twitter: 
   website: 
 
+- name: Gregor Weichbrodt
+  img: gregorweichbrodt
+  staff: 0
+  board: 0
+  advisory: 0
+  position: Development & Design FragDenStaat
+  position_en: development & design FragDenStaat
+  bio: "Gregor arbeitet als Designer und Frontend-Entwickler für FragDenStaat seit Januar 2020. In seiner Freizeit beschäftigt er sich mit digitaler Literatur und generativer Kunst."
+  bio_en: "Gregor has been working as a designer and frontend-developer for FragDenStaat since January 2020. In his free time, he works with digital literature and generative art."
+  mail: gregor.weichbrodt@okfn.de
+  twitter: greg00r
+  website:
+
+- name: Mechthild Schmidt
+  img: mechthildschmidt
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Projektleitung Jugend hackt
+  position_en: project management Jugend hackt
+  bio: "Mechthild ist Projektleiterin bei Jugend hackt. Sie koordiniert die Labs und möchte gern an vielen weiteren Orten die Labs etablieren, damit Jugend hackt überall wirkt. Außerdem ist Mechthild bei Jugend hackt für die Finanzen zuständig. "
+  bio_en: "Mechthild is project manager for Jugend hackt. She is coordinates the Jugend hackt Labs and aims to scale more Labs within Germany - so Jugend hackt has an impact everywhere. Furthermore, Mechthild is in charge for financial administration."
+  mail: mechthild.schmidt@okfn.de
+  twitter:
+  website:
+
+- name: Nina Schröter
+  img: nina
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Projektmanagerin Jugend hackt
+  position_en: project management Jugend hackt
+  bio: "Nina ist seit Anfang 2020 für die Jugend hackt Events zuständig. Vor ihrer Zeit bei Jugend hackt hat sie viele Jahre Beteiligungsprozesse konzipiert und begleitet."
+  bio_en: "Nina has been responsible for the events ath Jugend hackt since the beginning of 2020. Prior to her time at Jugend hackt, she spent many years designing and supporting participation processes."
+  mail: nina.schroeter@okfn.de
+  twitter:
+  website:
+
+- name: Dr. Phillip Hofmann
+  img: philliphofmann
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Head of Legal FragDenStaat
+  position_en: Head of Legal FragDenStaat
+  bio: "Phillip ist seit 2020 als Syndikusanwalt bei der Open Knowledge Foundation angestellt und als Head of Legal im Projekt FragDenStaat tätig. Bevor er zu FragDenStaat kam war er mehrere Jahre als Anwalt im Urheber-, Datenschutz- und IT-Recht in Kanzleien unterwegs. Im Auftrag von Informationsfreiheit und Transparenz sind seine Hobbies klagen und verklagt werden."
+  bio_en: "Phillip is the company lawyer for the Open Knowledge Foundation Germany since 2020 and working as Head of Legal for the project FragDenStaat. Before, he had been working as a lawyer for multiple years in the areas of copyright, data protection and IT law. In the name of freedom of information and transparency, his hobbies include sueing and being sued."
+  mail: phillip.hofmann@okfn.de
+  twitter: RA_PhilHofmann
+  website:
+
+- name: Petra Balint
+  img: petra
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Assistenz der Geschäftsführung
+  position_en: Assistance of Managing Director
+  bio: "Petra unterstützt die Geschäftsführung und unsere Projekte in Sachen Finanz- und Programm Management. Zuvor hat sie als Projektmanagerin für verschiedene Projekte im Bereich Menschenrechte, Verwaltungsmodernisiserung und Open Source gerarbeitet."
+  bio_en: "Petra supports the Managing Director and our projects in finance- and project management. She has previously worked as a project manager for various human rights, administrative modernization and open source projects."
+  mail: petra.balint@okfn.de
+  twitter:
+  website:
+
+- name: Claudia Jach
+  img: claudiajach
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Projektmanagerin
+  position_en: Project Manager
+  bio: "Claudia arbeitet bei der OKF zu Nachhaltigkeitsthemen und Policy."
+  bio_en: "Claudia works on sustainability issues and policy."
+  mail: claudia.jach@okfn.de
+  twitter:
+  website:
+
+- name: Patricia Leu
+  img: patricialeu
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Kommunikation Prototype Fund
+  position_en: Communication Prototype Fund
+  bio: "Patricia betreut die Kommunikationskanäle des Prototype Fund und ist für die Weiterentwicklung seiner Content-Strategie zuständig. Sie hat Religion und Kultur in Berlin studiert und zu medialer Diskurshegemonie geforscht. Während und nach ihrem Studium unterstützte sie die Kampagnen- und Kommunikationsteams verschiedener NGOs und verantwortete die Presse- und Öffentlichkeitsarbeit eines Jugendverbands."
+  bio_en: "Patricia manages the Prototype Fund's communication channels and is responsible for further developing its content strategy. She studied religion and culture in Berlin and researched media discourse hegemony. She previously worked in the campaigning and communication teams of different NGOs and managed the public relations of a youth organization."
+  mail: patricia.leu@okfn.de
+  twitter:
+  website:
+
+- name: Dr. Henriette Litta
+  img: henriette
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Geschäftsführerin
+  position_en: Managing Director
+  bio: "Henriette ist Geschäftsführerin der OKF. Die Politikwissenschaftlerin beschäftigt sich seit 20 Jahren mit Fragen der Souveränität im demokratischen Gemeinwesen. Sie ist aktiv und vernetzt im Stiftungssektor und bringt Expertise insbesondere in den Bereichen Organisationsentwicklung, politische Wirksamkeit und Finanzierung mit."
+  bio_en: "Henriette is Managing Director of OKF Germany. She is a political scientist and has been thinking about the concept of sovereignty in a democratic society for 20 years now. She brings in expertise especially in the fields of organizational development, political impact and finance architecture."
+  mail: henriette.litta@okfn.de
+  twitter:
+  website:
+  
+- name: Max Kronmüller
+  img: maxk
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Bundesfreiwilligendienstleistender bei FragDenStaat.de
+  position_en: Volunteer at FragDenStaat.de
+  bio: Max wurde auf FragDenStaat bei Jugend Hackt aufmerksam und absolviert nun seinen Freiwilligendienst bei der OKF.
+  bio_en: Max learned about FragDenStaat at Jugend Hackt and is now doing a voluntary year at OKF.
+  mail: max.kronmueller@okfn.de
+  twitter: krmax44
+  github: krmax44
+  
 - name: Jakob Schiek
   img: jakobschiek
   staff: 1
@@ -104,19 +221,6 @@
   mail: jakob.schiek@okfn.de
   twitter: glitter1horn
   github: jkbschk
-
-- name: Jasmin Helm
-  img: jasminhelm
-  staff: 1
-  board: 0
-  advisory: 0
-  position: Projektmanagement Datenschule
-  position_en: Project management Datenschule
-  bio: "Jasmin hat Soziologie und Germanistik in Kiel und Potsdam studiert und arbeitet seit 2016 bei der OKF im Bereich Kommunikation. Zuvor hat sie einige Praktika in Zeitungs- und Fernsehredaktionen absolviert und war ehrenamtlich für Umwelt-NGOs in der Presse- und Öffentlichkeitsarbeit tätig. Der verantwortungsvolle Umgang mit Daten ist ein zentrales Anliegen für sie. Jasmin ist seit Jahresende in Elternzeit."
-  bio_en: "Jasmin studied sociology at Potsdam University and supports the project \"Datenschule\" since 2016. The handling of data in a responsible way is a main concern for her. Jasmin is currently on parental leave."
-  mail: jasmin.helm@okfn.de
-  twitter:
-  website:
 
 - name: Judith Doleschal
   img: judithdoleschal
@@ -215,20 +319,6 @@
   website: 'https://lislis.de'
   github: lislis
 
-- name: Lydia Böttcher
-  img: lydiaboettcher
-  staff: 1
-  board: 0
-  advisory: 0
-  position: Projektleitung Demokratielabore
-  position_en: Project management Demokratielabore
-  bio: "Lydia war bei der Open Knowledge Foundation als Projektleiterin der „Demokratielabore“ tätig und arbeitet derzeit am Projekt Umweltdatenschule mit. Neben ihrem Studium der Erziehungs- und Bildungswissenschaft tauchte sie schnell in die Welt der Jugendbeteiligung und politischen Bildungsarbeit ein. Die Koordination verschiedener Freiwilligendienste mit Schwerpunkt Partizipation beschäftigte sie einige Jahre. Gemeinsam mit anderen Freiberufler_innen gründete sie das stuhlkreis_revolte Kollektiv, ein Kollektiv für emanzipatorische Bildungsarbeit und Prozessbegleitung."
-  bio_en: "Lydia was project lead for the program „Demokratielabore“ and now works for the Project „Umweltdatenschule“. Her interest in youth participation and political education grew with a lot of practical experiences besides her educational science studies at the Free University Berlin. The coordination of various volunteer services with a focus on participation filled a couple of years in her working life. Together with a group of freelancers, she founded the stuhlkreis_revolte, a collective for emancipatory educational work and process management."
-  mail: lydia.boettcher@okfn.de
-  twitter:
-  website:
-  github: lydiaboe
-
 - name: Marie Gutbub
   img: marie_g
   staff: 1
@@ -268,20 +358,6 @@
   mail: michael.peters@okfn.de
   twitter: miguelitoj89
   github: michaeljokf
-
-- name: Nadine Stammen
-  img: nadinestammen
-  staff: 0
-  board: 0
-  advisory: 0
-  board_alumni: 1
-  position: Design
-  position_en: Design
-  bio: "Nadine ist Informations- und Interfacedesignerin und seit 2017 als Designerin bei der OKF.  Zuvor arbeitete sie mehrere Jahre in einer Webagentur sowie beim gemeinnützigen Verein Liquid Democracy. In Projekten mit Transparency International, OCCRP, der Stiftung Mercator oder der Stadt Berlin arbeitete sie daran, gesellschaftlichen Wandel mit digitalen Technologien und Medien zu unterstützen. "
-  bio_en: "Nadine is an information and interface designer and has been working for OKF from 2017 to 2020.  Previously she worked for several years in a web agency and for the non-profit association Liquid Democracy. In projects with Transparency International, OCCRP, the Mercator Foundation or the City of Berlin, she worked on supporting social change with digital technologies and media."
-  mail: "nadine.stammen@okfn.de"
-  twitter: stadine
-  website: https://nadinestammen.de
 
 - name: Paula Grünwald (geb. Glaser)
   img: paulaglaser
