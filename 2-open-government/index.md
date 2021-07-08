@@ -2,7 +2,7 @@
 layout: page
 chapter: 2
 title: Projekte
-permalink: /projekte/
+permalink: /open-government/
 visual:
     img: /assets/images/bildung/bildung-2.png
     alt: Illustration Offenes Regierungshandeln
