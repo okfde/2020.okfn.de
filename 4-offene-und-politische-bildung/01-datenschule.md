@@ -1,9 +1,9 @@
 ---
 layout: page
-chapter: 4.1
-title: Datenschule
+chapter: 2.5
+title: (Umwelt)Datenschule
 website: https://datenschule.de/
-permalink: /offene-und-politische-bildung/datenschule/
+permalink: /open-government/datenschule/
 visual:
     img: /assets/images/bildung/datenschule.png
     alt: Logo der Datenschule
