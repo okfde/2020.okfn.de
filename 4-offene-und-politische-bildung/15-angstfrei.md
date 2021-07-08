@@ -23,22 +23,25 @@ resources: >
   <br><br>
 
   **Personal** <br>
- Projektleitung: Maximilian Voigt
+   
+  Projektleitung: Maximilian Voigt
   <br><br>
   
   **Partner:innen** <br>
+  
   Youth Policy Labs, Generation and Educational Science Institute, Professional Open Youth Work in Europe
   <br><br>
   
   **Förderung** <br>
+  
   Erasmus+
   <br><br>
   
 achievements: >
-     Im Mittelpunkt stand die Entwicklung von Methoden zur diskursiven Auseinandersetzung mit dem Schwerpunkt “Digitalität und Gesellschaft”.
+  Im Mittelpunkt stand die Entwicklung von Methoden zur diskursiven Auseinandersetzung mit dem Schwerpunkt “Digitalität und Gesellschaft”.
 
-outlook:  >
-     Die zweite Phase des Projektes konzentriert sich auf die Testung der entwickelten Methoden.
+outlook: >
+  Die zweite Phase des Projektes konzentriert sich auf die Testung der entwickelten Methoden.
 
 
 ---
@@ -46,4 +49,4 @@ outlook:  >
 
 # Das Projekt
 
-In der offenen Jugendarbeit liegt riesiges Potenzial. Sie bietet Räume zum Experimentieren, Ausprobieren und Kreativ­sein – genau der richtige Ort, um einen selbstbestimmten Umgang mit Digitalisierung zu entwickeln. Mit “Digitalisierung: vom Angstraum zum Freiraum der Jugendarbeit”  schaffen wir Freiräume für Jugendarbeiter:­innen, um sich kreativ und neugierig in einem geschütztem Rahmen weiterzubilden. Im Fokus stehen Basiskompetenzen wie informationelle Selbstbestimmung und Datenschutz, aber auch diskursive Themen um die Wechselwirkung von Digitalität.
+In der offenen Jugendarbeit liegt riesiges Potenzial. Sie bietet Räume zum Experimentieren, Ausprobieren und Kreativsein – genau der richtige Ort, um einen selbstbestimmten Umgang mit Digitalisierung zu entwickeln. Mit “Digitalisierung: vom Angstraum zum Freiraum der Jugendarbeit”  schaffen wir Freiräume für Jugendarbeiter:innen, um sich kreativ und neugierig in einem geschütztem Rahmen weiterzubilden. Im Fokus stehen Basiskompetenzen wie informationelle Selbstbestimmung und Datenschutz, aber auch diskursive Themen um die Wechselwirkung von Digitalität.
