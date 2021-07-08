@@ -16,7 +16,7 @@ Die Mitgliederversammlung der OKF DE ist ein beschlussfassendes Vereinsorgan. Ih
 
 Der ehrenamtlich tätige Vorstand setzt sich aus einem Vorsitz und einem stellvertretenden Vorsitz, der Position Kassenwart:in sowie aus Beisitzer:innen zusammen. Der Vorstand wird von der Mitgliederversammlung gewählt, die Amtszeit beträgt zwei Jahre, Wiederwahl ist zulässig. Amtierende Vorstandsmitglieder bleiben nach Ablauf ihrer Amtszeit im Amt, bis Nachfolger gewählt sind. Auf der Mitgliederversammlung 2020 wurden vier Vorstandsmitglieder im Amt bestätigt, Vorstandsmitglied Lucy Chambers stand nicht zur Wiederwahl zur Verfügung, vier neue Mitglieder wurden in den Vorstand gewählt.
 
-<table width="500">
+<table width="600">
   <tr>
     <th>Mitglieder des Vorstands</th>
     <th>bis 28.05.2020</th>
