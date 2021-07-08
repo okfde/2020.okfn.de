@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 2.7
+chapter: 2.16
 title: Bits & Bäume
 website: https://bits-und-baeume.org/de
 permalink: /open-government/bitsundbaeume/
