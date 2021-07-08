@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 2.5
+chapter: 2.14
 title: (Umwelt)Datenschule
 website: https://datenschule.de/
 permalink: /open-government/datenschule/
