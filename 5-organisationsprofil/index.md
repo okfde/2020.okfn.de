@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 5
+chapter: 3
 title: Die Organisation
 permalink: /profil/
 visual:
