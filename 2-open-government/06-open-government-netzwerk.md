@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 2.6
+chapter: 2.13
 title: Open Government Netzwerk
 website: https://opengovpartnership.de/
 permalink: /opengovernment/open-government-netzwerk/
