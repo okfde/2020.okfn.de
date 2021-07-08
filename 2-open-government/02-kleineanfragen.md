@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 2.2
+chapter: 2.12
 title: kleineAnfragen (†)
 website: https://kleineanfragen.de/
 permalink: /open-government/kleineanfragen/
