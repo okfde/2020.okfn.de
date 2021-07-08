@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 2.2
+chapter: 2.11
 title: FragDenStaat
 website: https://fragdenstaat.de
 permalink: /open-government/fragdenstaat/
