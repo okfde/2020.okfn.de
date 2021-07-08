@@ -1,9 +1,9 @@
 ---
 layout: page
-chapter: 3.3
+chapter: 2.7
 title: Bits & Bäume
 website: https://bits-und-baeume.org/de
-permalink: /civic-und-public-interest-tech/bitsundbaeume/
+permalink: /open-government/bitsundbaeume/
 visual:
       img: /assets/images/civictech/bitsundbaeume.png
       alt: Eine Beschreibung des Textes
