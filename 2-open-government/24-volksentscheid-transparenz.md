@@ -9,43 +9,41 @@ visual:
     alt: Illustration Aktenschrank
 ---
 
-Mit der Kampagne „Volksentscheid Transparenz“ soll ein Gesetz für Berlin durchgesetzt werden, das Verwaltungen proaktiv zu Transparenz verpflichtet.
+### Das Projekt 
 
-### Hintergrund 
+Mit der Kampagne „Volksentscheid Transparenz“ soll ein Gesetz für Berlin durchgesetzt werden, das Verwaltungen zu Transparenz verpflichtet. Im Koalitionsvertrag haben die Regierungsparteien vereinbart, das Berliner Informationsfreiheitsgesetz zu einem Transparenzgesetz weiterzuentwickeln. Statt zu warten, bis die Koalition einen Entwurf vorlegt, haben wir gemeinsam mit zivilgesellschaftlichen Partnern einen eigenen Vorschlag geschrieben. Unser Transparenzgesetz verpflichtet Senat, Behörden und öffentliche Unternehmen, für die Öffentlichkeit wichtige Informationen offenzulegen. 
 
-Im Berliner Koalitionsvertrag haben die Regierungsparteien vereinbart, das Berliner Informationsfreiheitsgesetz zu einem Transparenzgesetz weiterzuentwickeln. Statt zu warten bis die Koalition anfängt, einen entsprechenden Entwurf zu erarbeiten, haben wir gemeinsam mit zivilgesellschaftlichen Partnern einen eigenen Vorschlag für ein Berliner Transparenzgesetz geschrieben. Effektive Transparenz kann nur durch einen zivilgesellschaftlichen Entwurf eingeführt werden. Im Rahmen eines Volksentscheids setzen wir bis 2021 den Gesetzentwurf für ganz Berlin durch.
+### Was ist 2020 passiert?
 
-Das Transparenzgesetz verpflichtet Senat, Behörden und öffentliche Unternehmen, für die Öffentlichkeit wichtige Informationen offenzulegen. Dazu gehören unter anderem Senatsbeschlüsse, Verträge mit Unternehmen, Gutachten, z. B. zur Wasserqualität oder Entwicklung von Grundstückspreisen, sowie Daten zu Aufträgen der öffentlichen Hand. Die Verwaltung muss nach unserem Gesetz diese Informationen zentral und kostenlos auf einer Online-Plattform zugänglich machen.
+#### *Ressourcen*
 
-Das derzeit geltende Informationsfreiheitsgesetze regelt die Informationsrechte der Berliner\*innen unzulänglich, da es mit langen Fristen, hohen Gebühren und weitreichenden Ausnahmen verbunden ist. Nur, wenn Bürger*innen sich umfangreich und unkompliziert informieren können, können sie die Politik kontrollieren und selbst aktiv mitbestimmen.
+  **Laufzeit** <br>
+  
+  Das Projekt läuft seit Sommer 2018.<br><br>
 
-### Rückblick & Leistungen 2019
+  **Budget** <br>
+  keins<br><br>
 
-* Im März haben wir unseren Gesetzentwurf zur amtlichen Kostenschätzung eingereicht.
-* Großer Erfolg: In der zweiten Jahreshälfte konnten wir mit enormer ehrenamtlicher Unterstützung 32.827 Unterschriften für den Antrag auf ein Volksbegehren sammeln, von denen 27.091 Unterschriften gültig sind. 
-* Der Antrag war somit erfolgreich und ging in die Zulässigkeitsprüfung.
-* Für die Koordination der ehrenamtlichen Sammler*innen sowie für Interessierte haben wir ein digitales Organisations-Tool gebaut, das Sammelorte und -events auf einer Karte anzeigt und strukturiert.
-* Bei der Anhörung zu einem Entwurf für ein Transparenzgesetz der FDP-Fraktion im Abgeordnetenhaus wurde das Bündnis eingeladen, eine Stellungnahme abzugeben.
+  **Personal** <br>
+   Arne Semsrott, Lea Pfau, Leonard Wolf, Stefan Wehrmeyer<br><br>
 
-### Highlights
+  **ehrenamtliche Arbeit** <br>
+  zahlreiche Ehrenamtliche<br><br>
+  
+  **Partner:innen** <br>
+  Mehr Demokratie<br><br>
 
-* Über 40 zivilgesellschaftliche Organisationen unterstützen den Volksentscheid Transparenz.
-* Zahlreiche Medien berichteten zum Start der Unterschriftensammlung über die Kampagne.
-* Insgesamt rund 100 Ehrenamtliche haben sich regelmäßig getroffen, Unterschriften gesammelt und in anderen Bereichen der Kampagne große Unterstützung geleistet.
+  **Förderung** <br>
+  Spenden<br><br>
+  
+#### *inhaltliche Schwerpunkte*
+ * Nachdem wir im Jahr 2019 insgesamt 32.827 Unterschriften für den Antrag auf ein Volksbegehren gesammelt und dem Berliner Senat übergeben hatten, prüfte die Innenverwaltung das gesamte Jahr den Antrag auf Zulässigkeit. In der Zwischenzeit erstellte der Senat einen eigenen Entwurf für ein Transparenzgesetz, der allerdings deutlich hinter dem Volksentscheid zurückbleibt.
+ * Über 40 zivilgesellschaftliche Organisationen unterstützen den Volksentscheid Transparenz.
+Zahlreiche Medien berichteten zum Start der Unterschriftensammlung über die Kampagne.
+ * Insgesamt rund 100 Ehrenamtliche haben sich regelmäßig getroffen, Unterschriften gesammelt und in anderen Bereichen der Kampagne große Unterstützung geleistet.
 
-### Ausblick
-
-* Im ersten Quartal 2020 soll voraussichtlich die Zulässigkeitsprüfung des Antrags auf ein Volksbegehren abgeschlossen werden.
-* Wir führen weiter Gespräche mit Berliner Abgeordneten.
-* Wenn der Senat unseren Gesetzentwurf nicht übernimmt, bereiten wir die zweite Phase der Unterschriftensammlung vor, um einen Volksentscheid einzuleiten. Dafür sind Anfang 2021 circa 170.000 Unterschriften notwendig.
-
-### Ressourcen
-
-* Beginn: Sommer 2018
-* Laufzeit: ganzjährig
-* Finanzierung: 12.000 € Förderung, größtenteils Ehrenamt, außerdem Spenden, Finanzierung über FragdenStaat und Querfinanzierung
-* Beteiligte OKF DE (z. T. hauptamtlich): Alex Tarralle, Arne Semsrott, Lea Pfau, Leonard Wolf, Nadine Stammen, Stefan Wehrmeyer sowie zahlreiche Ehrenamtliche
-* Projektpartner: Mehr Demokratie e. V.
+#### *Ausblick*
+Die Prüfung des Antrags wird weiter vom Berliner Senat verzögert und ist noch immer nicht abgeschlossen. Wenn dies geschehen ist, kann der Gesetzentwurf endlich dem Berliner Abgeordnetenhaus übergeben werden.
 
 ### Website
 
