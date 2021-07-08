@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 2.1
+chapter: 2.10
 title: Code for Germany
 website: https://codefor.de
 permalink: /open-government/code-for-germany/
