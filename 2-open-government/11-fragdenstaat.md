@@ -68,7 +68,6 @@ resources: >
   davon Personalausgaben: 266.121 € <br>
   davon Sachausgaben: 65.630 € <br><br>
 
-
   **Personal** <br>
 
   Projektleitung: Arne Semsrott | Entwickler:in: Stefan Wehrmeyer / Magdalena Noffke | Frontend-Developer: Gregor Weichbrodt | Studentische Hilfskraft & Campaignerin: Lea Pfau | Projektmanagerin: Judith Doleschal | Head of Legal: Phillip Hofmann | Rechtsreferendarin: Layla Ansari / Carina Kremmling | Bundesfreiwilligendienstleistender: Max Kronmüller <br><br>
@@ -84,7 +83,6 @@ resources: >
   **Förderung** <br>
   
   Spenden, Luminate, Schöpflin Stiftung, Wegrand Stiftung, Guerilla Stiftung, Stiftung Mitarbeit, Digital Freedom Fund, sonstige <br><br>
-
 
 achievements: > 
 
