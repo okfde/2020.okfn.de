@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 2.6
+chapter: 2.15
 title: Angstfrei
 website: https://www.digitalejugendarbeit.de/
 permalink: /open-government/angstfrei/
