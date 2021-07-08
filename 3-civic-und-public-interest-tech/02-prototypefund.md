@@ -1,9 +1,9 @@
 ---
 layout: page
-chapter: 3.2
+chapter: 2.4
 title: Prototype Fund
 website: https://prototypefund.de
-permalink: /civic-und-public-interest-tech/prototypefund/
+permalink: /open-government/prototypefund/
 visual:
     img: /assets/images/civictech/ptf.png
     alt: Logo Prototype Fund
