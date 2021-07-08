@@ -32,7 +32,7 @@ solution:
 - title: laufende Berichterstattung
   text: Das Team von FragDenStaat informiert aktuell über neue Fälle und Klagen und zeigt Erfolge und Probleme der Informationsfreiheit auf.
 effect:
-- title: auf Bürger*innen
+- title: auf Bürger:innen
   text: >
     Mehr Menschen erkennen ihr Recht auf Informationsfreiheit.
 
@@ -46,11 +46,11 @@ effect:
     Die Praxis der Informationsfreiheit wird gestärkt, weil Verwaltungen anhand der Fälle Informationsfreiheit besser verstehen.
 
 
-    Verwaltungen befolgen das Informationsfreiheitsgesetz stärker und bei den Mitarbeiter\*innen wird die Akteptanz für Informationsfreiheit gestärkt.
-- title: auf Multiplikator*innen
+    Verwaltungen befolgen das Informationsfreiheitsgesetz stärker und bei den Mitarbeiter:innen wird die Akteptanz für Informationsfreiheit gestärkt.
+- title: auf Multiplikator:innen
   text: >
     Die Nutzung von Anfragen an Verwaltungen für NGO-Kampagnen und journalistische Projekte wird erhöht.
-    Der Gesetzgeber gerät unter Druck, bestehende Regelungen bürger\*innenfreundlicher zu gestalten.
+    Der Gesetzgeber gerät unter Druck, bestehende Regelungen bürger:innenfreundlicher zu gestalten.
 - title: gesellschaftliche Wirkung
   claim: Durch die stärkere Nutzung der Informationsfreiheit wird das Menschenrecht gestärkt.
 
