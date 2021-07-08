@@ -1,9 +1,9 @@
 ---
 layout: page
-chapter: 4.5
+chapter: 2.11
 title: Forum Open Education
 website: https://education.forum-open.de/
-permalink: /offene-und-politische-bildung/forum-open-education/
+permalink: /open-government/forum-open-education/
 visual:
      img: /assets/images/bildung/foe.png
      alt: FOE Logo
