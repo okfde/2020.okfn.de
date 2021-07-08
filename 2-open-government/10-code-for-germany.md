@@ -11,31 +11,23 @@ problem:
 - text: Die Civic-Tech-Community in Deutschland besteht aus vielen individuellen Gruppierungen, die mit ähnlichen Problemen konfrontiert sind, aber bisher vorwiegend regional organisiert sind und keine Lobby haben.
 causes:
 - title: Fehlende Nutzung von Open Data,
-  text: >
-    Bereits aktive Akteur:innen agieren für sich und ohne Infrastruktur. Akteur:innen mit komplementären Fähigkeiten treffen nicht aufeinander.
-
-
-    Akteure mit potenziell komplementären Fähigkeiten treffen nicht aufeinander.
+  text: Bereits aktive Akteur:innen agieren für sich und ohne Infrastruktur. Akteur:innen mit komplementären Fähigkeiten treffen nicht aufeinander. Akteure mit potenziell komplementären Fähigkeiten treffen nicht aufeinander.
 - title: eine fehlende Lobby und
   text: Der Kontakt zu Regierungen, Kommunen und Verwaltungen, etwa um an Daten zu gelangen, ist für Einzelpersonen schwierig umsetzbar.
 - title: fehlendes Bewusstsein
-  text: >
-    Open Data, Open Source und Open Government sind an vielen Stellen unbekannt oder unverstanden.
-   
-
-    Die Regierung, Kommunen, Verwaltungen und andere Institutionen arbeiten deswegen stellenweise ineffizient.
+  text: Open Data, Open Source und Open Government sind an vielen Stellen unbekannt oder unverstanden. Die Regierung, Kommunen, Verwaltungen und andere Institutionen arbeiten deswegen stellenweise ineffizient.
 - title: führen dazu, dass
   claim: >
-      * digitale Innovation in sozialen Bereichen in Deutschland kaum stattfindet,
-
-
-      * bzw. bestehende Lösungsansätze, die von der Community entwickelt wurden, nicht übernommen und verstetigt werden (können),
+     digitale Innovation in sozialen Bereichen in Deutschland kaum stattfindet,
+      
+      
+     bzw. bestehende Lösungsansätze, die von der Community entwickelt wurden, nicht übernommen und verstetigt werden (können),
        
       
-      * viele Technologien/Werkzeuge in den „Überwachungskapitalismus“ eingebunden sind und somit
+     viele Technologien/Werkzeuge in den „Überwachungskapitalismus“ eingebunden sind und somit
 
 
-      * keine nachhaltigen und sicheren alternativen Infrastrukturen bestehen.
+     keine nachhaltigen und sicheren alternativen Infrastrukturen bestehen.
 
 solution:
 - title: lokale Labs
@@ -43,14 +35,12 @@ solution:
 - title: Vernetzung
   text: Entscheidungsträger:innen und Verwaltungen vernetzen sich mit swe Civic-Tech Community, um gemeinsam an Projekten für die Stadt zu arbeiten.
 - title: Stärkung von Civic Tech in Deutschland
-  text: >
-    Es bildet sich eine starke Civic-Tech-Community in Deutschland, Offene Daten werden von Bürger:innen genutzt und durch unsere Beispiele 
-   werden Politik & Verwaltungen dazu inspiriert, weitere Daten zu öffnen und bessere, nutzerfreundliche Anwendungen bereitzustellen.
+  text: Es bildet sich eine starke Civic-Tech-Community in Deutschland, Offene Daten werden von Bürger:innen genutzt und durch unsere Beispiele werden Politik & Verwaltungen dazu inspiriert, weitere Daten zu öffnen und bessere, nutzerfreundliche Anwendungen bereitzustellen.
 
 effect:
 - title: auf die Community
   text: Die Community hat einen lokalen Treffpunkt, trifft sich regelmäßig und ist vernetzt.
-- title: auf Entwickler*innen
+- title: auf Entwickler:innen
   text: Open Source und User Experience Design als Konzepte werden weiterverbreitet.
 - title: auf die Gesellschaft
   text: >
