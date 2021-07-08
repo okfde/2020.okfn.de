@@ -1,9 +1,9 @@
 ---
 layout: page
-chapter: 4.3
+chapter: 2.2
 title: Jugend hackt
 website: https://jugendhackt.org/
-permalink: /offene-und-politische-bildung/jugendhackt/
+permalink: /projekte/jugendhackt/
 visual:
     img: /assets/images/bildung/jugendhackt.png
     alt: Das Alpaka Jugend hackt
