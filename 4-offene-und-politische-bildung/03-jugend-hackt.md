@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 2.2
+chapter: 2.3
 title: Jugend hackt
 website: https://jugendhackt.org/
 permalink: /open-government/jugendhackt/
