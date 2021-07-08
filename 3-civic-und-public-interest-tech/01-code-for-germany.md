@@ -75,10 +75,10 @@ resources: >
   <br><br>
 
   **Budget** <br>
-  Einnahmen: 84.116 €
-  Ausgaben: 65.210 €
-  davon Personalausgaben: 41.101 €
-  davon Sachausgaben: 24.109 €
+  Einnahmen: 84.116 € <br>
+  Ausgaben: 65.210 € <br>
+  davon Personalausgaben: 41.101 € <br>
+  davon Sachausgaben: 24.109 € <br>
     <br><br>
 
   **Personal** <br>
