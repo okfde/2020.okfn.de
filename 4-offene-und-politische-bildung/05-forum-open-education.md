@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 2.11
+chapter: 2.20
 title: Forum Open Education
 website: https://education.forum-open.de/
 permalink: /open-government/forum-open-education/
