@@ -8,7 +8,12 @@ visual:
   img: /assets/images/bildung/turingbus.png
   alt: Logo Turing-Bus
 
-resources: >
+### Das Projekt
+In der offenen Jugendarbeit liegt riesiges Potenzial. Sie bietet Räume zum Experimentieren, Ausprobieren und Kreativsein – genau der richtige Ort, um einen selbstbestimmten Umgang mit Digitalisierung zu entwickeln. Mit “Digitalisierung: vom Angstraum zum Freiraum der Jugendarbeit”  schaffen wir Freiräume für Jugendarbeiter:innen, um sich kreativ und neugierig in einem geschütztem Rahmen weiterzubilden. Im Fokus stehen Basiskompetenzen wie informationelle Selbstbestimmung und Datenschutz, aber auch diskursive Themen um die Wechselwirkung von Digitalität.
+
+### Was ist 2020 passiert?
+
+#### *Ressourcen*
 
   **Laufzeit** <br>
 
@@ -36,16 +41,12 @@ resources: >
   Erasmus+
   <br><br>
   
-achievements: >
-  Im Mittelpunkt stand die Entwicklung von Methoden zur diskursiven Auseinandersetzung mit dem Schwerpunkt “Digitalität und Gesellschaft”.
+#### *inhaltliche Schwerpunkte*
+Im Mittelpunkt stand die Entwicklung von Methoden zur diskursiven Auseinandersetzung mit dem Schwerpunkt “Digitalität und Gesellschaft”.
 
-outlook: >
-  Die zweite Phase des Projektes konzentriert sich auf die Testung der entwickelten Methoden.
+#### *Ausblick*
+Die zweite Phase des Projektes konzentriert sich auf die Testung der entwickelten Methoden.
 
+### Website
 
----
-
-
-# Das Projekt
-
-In der offenen Jugendarbeit liegt riesiges Potenzial. Sie bietet Räume zum Experimentieren, Ausprobieren und Kreativsein – genau der richtige Ort, um einen selbstbestimmten Umgang mit Digitalisierung zu entwickeln. Mit “Digitalisierung: vom Angstraum zum Freiraum der Jugendarbeit”  schaffen wir Freiräume für Jugendarbeiter:innen, um sich kreativ und neugierig in einem geschütztem Rahmen weiterzubilden. Im Fokus stehen Basiskompetenzen wie informationelle Selbstbestimmung und Datenschutz, aber auch diskursive Themen um die Wechselwirkung von Digitalität.
+[https://www.digitalejugendarbeit.de/](https://www.digitalejugendarbeit.de/)
