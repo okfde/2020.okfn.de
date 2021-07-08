@@ -1,9 +1,9 @@
 ---
 layout: page
-chapter: 4.4
+chapter: 2.6
 title: Angstfrei
 website: https://www.digitalejugendarbeit.de/
-permalink: /offene-und-politische-bildung/angstfrei/
+permalink: /open-government/angstfrei/
 visual:
   img: /assets/images/bildung/turingbus.png
   alt: Logo Turing-Bus
