@@ -62,16 +62,14 @@ resources: >
 
   **Laufzeit** <br>
 
-  Das Projekt läuft seit April 2014. <br><br>
-  
+  Das Projekt läuft seit April 2014. <br><br>  
 
   **Budget** <br>
 
   Einnahmen: 84.116 € <br>
   Ausgaben: 65.210 € <br>
   davon Personalausgaben: 41.101 € <br>
-  davon Sachausgaben: 24.109 € <br>
-
+  davon Sachausgaben: 24.109 € <br><br>
 
   **Personal** <br>
 
