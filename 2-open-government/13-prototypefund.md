@@ -61,8 +61,7 @@ resources: >
   Einnahmen: 503.817 € <br>
   Ausgaben: 507.460 € <br>
   davon Personalausgaben: 397.496 € <br>
-  davon Sachausgaben: 109.964 € <br>
-  <br><br>
+  davon Sachausgaben: 109.964 € <br><br>
 
   **Personal** <br>
   
@@ -73,7 +72,6 @@ resources: >
   
   Bundesministerium für Bildung und Forschung
   <br><br>
-
  
 achievements: >
   * Wie in jedem Jahr fanden auch 2020 wieder zwei Förderrunden statt. Die 7. Runde hat den Schwerpunkt “Engineering Trust - Vertrauen bauen”. Die 8. Runde wurde themenoffen gestaltet. Im Jahr 2020 wurde aufgrund der Coronapandemie die große Bedeutung guter, nutzerfreundlicher Technologie für viele Menschen noch deutlicher. Die Pandemie hat zudem neuartige Lösungen für bisher unbekannte Herausforderungen nötig gemacht. Der PTF hat den #WirVsVirus-Hackathon der Bundesregierung vom 21. bis 23. März 2020 mit initiiert und organisiert. Fast 30.000 Menschen beteiligten sich daran, digitale Lösungen für Probleme rund um die Coronapandemie zu entwickeln. 34 der entstandenen Lösungen hat der PTF in einer zusätzlichen Förderrunde mit 1,5 Mio. € des BMBF gefördert und betreut.
