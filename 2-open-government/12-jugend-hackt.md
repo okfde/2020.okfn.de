@@ -58,8 +58,7 @@ resources: >
   Einnahmen: 811.476 € <br>
   Ausgaben: 631.695 € <br>
   davon Personalausgaben: 368.148 € <br>
-  davon Sachausgaben: 263.547 € <br>
-  <br><br>
+  davon Sachausgaben: 263.547 € <br><br>
 
   **Personal** <br>
   Projektleiterinnen: Paula Grünwald / Mechthild Schmidt, Sonja Fischbauer | Projektmanagerin: Saadya Windauer / Nina Schröter | Community Manager: Philip Steffan | Lab-Koordinator:innen: Eva Holzheimer / Simon Willmann, Tomas Novy | studentische Mitarbeiter:innen:  Cin Pietschmann, Leonard Wolf | Bundesfreiwilligendienstleistender: Jakob Schiek
@@ -77,7 +76,6 @@ Außerdem gibt es viele weitere lokale Partnerorganisationen: Jugend hackt hat e
   **Förderung** <br>
   SKala-Initiative, Fachstelle für Internationale Jugendarbeit der Bundesrepublik Deutschland, Deutsche Bahn Stiftung, Deutsche Stiftung für Ehrenamt und Engagement, Arnfried und Hannelore Meyer-Stiftung, Goethe-Institut, Sponsorings und Spenden von Unternehmen sowie Spenden von Privatpersonen
   <br><br>
-
 
 achievements: >
     * In diesem Jahr befassten wir uns inhaltlich stärker mit dem Begriff und den Strukturen von [Identität](https://jugendhackt.org/blog/wir-starten-mit-einem-besonderen-jugend-hackt-ins-jahr-2020/). Wir leben in einer Zeit, in der die eigene Identität stärker denn je von uns selbst interpretiert werden kann – aber auch muss. Binäre Geschlechterkonstruktionen weichen der Erkenntnis, dass dazwischen noch ganz viel Raum für andere Interpretationen ist. 
