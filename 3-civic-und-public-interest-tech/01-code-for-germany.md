@@ -1,9 +1,9 @@
 ---
 layout: page
-chapter: 3.1
+chapter: 2.1
 title: Code for Germany
 website: https://codefor.de
-permalink: /civic-und-public-interest-tech/code-for-germany/
+permalink: /open-government/code-for-germany/
 visual:
     img: /assets/images/civictech/codefor.png
     alt: Eine Beschreibung des Textes
