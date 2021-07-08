@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 5.2
+chapter: 3.2
 title: Team
 permalink: /organisation/team/
 visual:
