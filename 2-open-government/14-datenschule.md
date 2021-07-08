@@ -51,8 +51,7 @@ resources: >
   Einnahmen: 70.186 € <br>
   Ausgaben: 70.126 € <br>
   davon Personalausgaben: 69.019 € <br>
-  davon Sachausgaben: 1.107 € <br>
-  <br><br>
+  davon Sachausgaben: 1.107 € <br><br>
 
   **Personal** <br>
   Projektleitung: Arne Semsrott | Entwickler:in: Lisa Passing / Stefan Wehrmeyer| Projektmanager: Maximilian Voigt
@@ -68,7 +67,6 @@ resources: >
 
 achievements: >
     
-
     * Die 2019 konzipierten Workshops “Mit Umweltdaten Gutes tun!” und “Excel & Data Magic” wurden in diesem Jahr weiter durchgeführt. Darüber hinaus nutzte die OKF DE weitere Gelegenheiten, die Themen der Umweltdatenschule einer Öffentlichkeit zugänglich zu machen, z.B. bei einem Datenspaziergang. 
     
     * Im Projekt ergab sich zudem die Kooperation mit der Umweltorganisation Robin Wood, mit der die OKF eine datenbasierte Publikation gemeinsam auf den Weg gebracht: der [Ökostromreport 2020](https://datenschule.de/blog/2020/01/Hintergr%C3%BCnde-zum-%C3%96kostrombericht-2020/). 
