@@ -3,7 +3,7 @@ layout: page
 chapter: 4.4
 title: Angstfrei
 website: https://www.digitalejugendarbeit.de/
-permalink: /offene-und-politische-bildung/turing-bus/
+permalink: /offene-und-politische-bildung/angstfrei/
 visual:
   img: /assets/images/bildung/turingbus.png
   alt: Logo Turing-Bus
@@ -16,10 +16,10 @@ resources: >
   <br><br>
 
   **Budget** <br>
-  Einnahmen: 6.850 €
-  Ausgaben: 6.109 €
-  davon Personalausgaben: 6.109 €
-  davon Sachausgaben: 0 €
+  Einnahmen: 6.850 € <br>
+  Ausgaben: 6.109 € <br>
+  davon Personalausgaben: 6.109 € <br>
+  davon Sachausgaben: 0 € <br>
   <br><br>
 
   **Personal** <br>
