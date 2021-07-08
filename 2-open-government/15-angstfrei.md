@@ -19,8 +19,7 @@ resources: >
   Einnahmen: 6.850 € <br>
   Ausgaben: 6.109 € <br>
   davon Personalausgaben: 6.109 € <br>
-  davon Sachausgaben: 0 € <br>
-  <br><br>
+  davon Sachausgaben: 0 € <br><br>
 
   **Personal** <br>
    
