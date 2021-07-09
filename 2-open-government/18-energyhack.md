@@ -5,7 +5,7 @@ title: Energyhack Berlin
 website: https://energyhack.de/
 permalink: /open-government/energyhack/
 visual:
-      img: /assets/images/civictech/bitsundbaeume.png
+      img: /assets/images/opengovernment/energyhack.png
       alt: Eine Beschreibung des Textes
 ---
 
