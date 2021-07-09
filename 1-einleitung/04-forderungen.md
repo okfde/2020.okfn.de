@@ -4,7 +4,7 @@ chapter: 1.4
 title: Wie wir arbeiten
 permalink: /einleitung/forderungen/
 visual:
-    img: /assets/images/einleitung/forderung.png
+    img: /assets/images/einleitung/governance.png
     alt: Illustration erhobener Zeigefinger
 ---
 
