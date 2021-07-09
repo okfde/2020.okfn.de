@@ -4,7 +4,7 @@ chapter: 2
 title: Projekte
 permalink: /open-government/
 visual:
-    img: /assets/images/bildung/bildung-2.png
+    img: /assets/images/civictech/civictech.png
     alt: Illustration Offenes Regierungshandeln
 ---
 
