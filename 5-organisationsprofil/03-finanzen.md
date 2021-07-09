@@ -24,6 +24,8 @@ Diese Kennzahlen zeigen, dass wir unsere für 2020 gesteckten Ziele erreichen ko
 Eine Finanzübersicht im Jahresvergleich findet sich in folgendem PDF zum Download:
 <a href="/assets/documents/Finanzen_Jahresbericht_2020.pdf" class="download-table">Download Finanzübersicht</a>
 <br>
+Die Bilanz (inkl. Gewinn- und Verlustrechnung) 2020 findet sich in folgendem PDF zum Download: [Bilanz 2020](
+https://okfn.de/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2020.pdf)<br>
 
 ### Einnahmen und Ausgaben
 
