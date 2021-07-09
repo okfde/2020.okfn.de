@@ -5,7 +5,7 @@ title: (Umwelt)Datenschule
 website: https://datenschule.de/
 permalink: /open-government/datenschule/
 visual:
-    img: /assets/images/bildung/datenschule.png
+    img: /assets/images/opengovernment/UDS.png
     alt: Logo der Datenschule
 problem:
 - text: Ohne den Zugang zu digitalen Fähigkeiten bleibt einem erheblichen Teil der Bevölkerung die Teilhabe an öffentlichen Diskursen erschwert – dies verhindert nicht zuletzt auch die Wahrnehmung von Menschenrechten.
