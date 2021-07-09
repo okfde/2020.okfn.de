@@ -5,7 +5,7 @@ title: Open Government Netzwerk
 website: https://opengovpartnership.de/
 permalink: /opengovernment/open-government-netzwerk/
 visual:
-    img: /assets/images/opengovernment/ogp.png
+    img: /assets/images/opengovernment/offenesregierungshandeln.jpg
     alt: Veranstaltungsfotos
 
 ---
