@@ -8,6 +8,6 @@ visual:
     alt: Illustration Offenes Regierungshandeln
 ---
 
-# TEIL B - UNSERE PROJEKTE 
+# TEIL 2 - UNSERE PROJEKTE 
 
-Im folgenden Teil B stellen wir unsere wichtigsten Projekte vor und beschreiben die inhaltlichen Schwerpunkte des letzten Jahres. Wir beginnen die Darstellung mit unseren großen, langjährigen Projekten. Hier ist es uns besonders wichtig, nachhaltige Strukturen aufzubauen und gesellschaftliche Wirkung zu entfalten. Daher stellen wir diese Projekte ausführlicher und anhand ihrer Wirkungsketten vor.
+Im folgenden Teil 2 stellen wir unsere wichtigsten Projekte vor und beschreiben die inhaltlichen Schwerpunkte des letzten Jahres. Wir beginnen die Darstellung mit unseren großen, langjährigen Projekten. Hier ist es uns besonders wichtig, nachhaltige Strukturen aufzubauen und gesellschaftliche Wirkung zu entfalten. Daher stellen wir diese Projekte ausführlicher und anhand ihrer Wirkungsketten vor.
