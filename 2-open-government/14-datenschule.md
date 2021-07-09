@@ -3,7 +3,7 @@ layout: page
 chapter: 2.14
 title: (Umwelt)Datenschule
 website: https://datenschule.de/
-permalink: /open-government/datenschule/
+permalink: /open-government/UDS/
 visual:
     img: /assets/images/opengovernment/UDS.png
     alt: Logo der Datenschule
