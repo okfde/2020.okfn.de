@@ -18,7 +18,7 @@ Das Vermögen der OKF DE ist größtenteils ungebunden und kann fast vollständi
 Diese Kennzahlen zeigen, dass wir unsere für 2020 gesteckten Ziele erreichen konnten, die finanzielle Situation weiter zu stabilisieren, so dass eine nachhaltige Projektarbeit möglich ist. Der bilanzielle Jahresabschluss wurde mit Unterstützung der Steuerkanzlei Winkow angefertigt. Die Prüfung des Jahresabschlusses erfolgte im Mai/Juni 2021 durch die Wirtschaftsprüfungsgesellschaft Solidaris Revisions-GmbH. Es gab keine Beanstandungen.
 
 Eine Finanzübersicht im Jahresvergleich findet sich in folgendem PDF zum Download:
-<a href="/assets/documents/Finanzen_Jahresbericht_2019.pdf" class="download-table">Download</a>
+<a href="/assets/documents/Finanzen_Jahresbericht_2020.pdf" class="download-table">Download</a>
 <br>
 
 ### Einnahmen und Ausgaben
