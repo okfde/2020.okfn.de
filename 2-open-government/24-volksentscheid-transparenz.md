@@ -11,7 +11,7 @@ visual:
 
 ### Das Projekt 
 
-Mit der Kampagne „Volksentscheid Transparenz“ soll ein Gesetz für Berlin durchgesetzt werden, das Verwaltungen zu Transparenz verpflichtet. Im Koalitionsvertrag haben die Regierungsparteien vereinbart, das Berliner Informationsfreiheitsgesetz zu einem Transparenzgesetz weiterzuentwickeln. Statt zu warten, bis die Koalition einen Entwurf vorlegt, haben wir gemeinsam mit zivilgesellschaftlichen Partnern einen eigenen Vorschlag geschrieben. Unser Transparenzgesetz verpflichtet Senat, Behörden und öffentliche Unternehmen, für die Öffentlichkeit wichtige Informationen offenzulegen. 
+Mit der Kampagne „Volksentscheid Transparenz“ soll ein Gesetz für Berlin durchgesetzt werden, das Verwaltungen zu Transparenz verpflichtet. Im Koalitionsvertrag haben die Regierungsparteien vereinbart, das Berliner Informationsfreiheitsgesetz zu einem Transparenzgesetz weiterzuentwickeln. Statt zu warten, bis die Koalition einen Entwurf vorlegt, haben wir gemeinsam mit zivilgesellschaftlichen Partner:innen einen eigenen Vorschlag geschrieben. Unser Transparenzgesetz verpflichtet Senat, Behörden und öffentliche Unternehmen, für die Öffentlichkeit wichtige Informationen offenzulegen. 
 
 ### Was ist 2020 passiert?
 
