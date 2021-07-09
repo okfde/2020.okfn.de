@@ -5,7 +5,7 @@ title: Angstfrei
 website: https://www.digitalejugendarbeit.de/
 permalink: /open-government/angstfrei/
 visual:
-  img: /assets/images/bildung/turingbus.png
+  img: /assets/images/opengovernment/angstfrei.png
   alt: Logo Turing-Bus
 ---
 
