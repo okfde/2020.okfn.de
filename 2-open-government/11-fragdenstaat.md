@@ -25,7 +25,7 @@ causes:
 
 solution:
 - title: einfache Anfragen online
-  text: Mithilfe von FragDenStaat.de können alle Menschen besonders einfach Anfragen an Behörden stellen. Der Ansatz ist niedrigschwellig, zusätzliche Tools gibt es für Journalist\*innen und NGOs.
+  text: Mithilfe von FragDenStaat.de können alle Menschen besonders einfach Anfragen an Behörden stellen. Der Ansatz ist niedrigschwellig, zusätzliche Tools gibt es für Journalist:innen und NGOs.
 - title: transparente Darstellung
   text: Alle Anfragen und Antworten darauf werden online dokumentiert und zeigen die Praxis der Informationsfreiheit in Deutschland. Davon können  
    Bürger:innen und Behörden lernen. Die öffentliche Kontrolle wird verstärkt.
@@ -88,7 +88,15 @@ achievements: >
 
     * Seit 2020 ist ein Syndikusanwalt im Team, so dass im Bereich der strategischen Klagen das Tempo deutlich angezogen hat. Es gab 71 laufende Klagen im Bereich Informationsfreiheit. Der Rechtsstreit mit Frontex ist nach wie vor am Laufen. Wir hatten die EU-Grenzagentur Frontex verklagt und vor Gericht verloren. Jetzt will Frontex sichergehen, dass sie nie wieder zur Rechenschaft gezogen wird. Sie stellt ihre Anwaltskosten von 23.700 Euro in Rechnung. Sollte Frontex mit dieser Taktik Erfolg haben, können sich nur noch Unternehmen und Reiche Klagen gegen EU-Behörden leisten – und die kritische Zivilgesellschaft bleibt außen vor. 
     
-    * Mit der [Mission Fleisch](https://fragdenstaat.de/kampagnen/mission-fleisch/) geht unsere “Topf Secret”-Partnerschaft mit foodwatch in die nächste Runde: Zusammen scheinen wir ein Licht auf die hygienischen Zustände in der Fleischindustrie, auch wenn Tönnies und Co. sich wehren. Mit [Spekulation abwenden!](https://fragdenstaat.de/kampagnen/abwendungsvereinbarungen/) geben wir Mieter:innen in Berlin Einblicke in Verträge, die ihr Haus und damit ihre Mietrechte betreffen. Mit dem [Klima-Gebäude-Check](https://fragdenstaat.de/kampagnen/klimacheck/) decken wir gemeinsam mit der Deutschen Umwelthilfe auf, was jede einzelne Kommune für den Klimaschutz tut. Wir veröffentlichten zu Beginn der Coronapandemie ein [vertrauliches Strategiepapier](https://fragdenstaat.de/blog/2020/04/01/strategiepapier-des-innenministeriums-corona-szenarien/) des Bundesinnenministerium (BMI), das den Umgang der Bundesregierung mit der Pandemie vorzeichnet. Die Bundesregierung war der Meinung, eine Veröffentlichung könnte „Nachteile für die Bundesrepublik Deutschland“ hervorrufen. Wir glauben, dass das Gegenteil richtig ist. Nur wenn wir alle die Strategien der Regierung kennen, können wir sie kritisch begleiten. Im Sommer hat das Verwaltungsgericht Berlin nach einer Klage von FragDenStaat entschieden, dass das BMI auf Anfrage auch Twitter- Direktnachrichten herausgeben muss. Damit gibt es Klarheit für eine Grundsatzfrage: Wenn Beamte private Kommunikationskanäle wie Twitter und Facebook nutzen, können sie sich damit nicht der Transparenzpflicht entziehen.
+    * Mit der [Mission Fleisch](https://fragdenstaat.de/kampagnen/mission-fleisch/) geht unsere “Topf Secret”-Partnerschaft mit foodwatch in die nächste Runde: Zusammen scheinen wir ein Licht auf die hygienischen Zustände in der Fleischindustrie, auch wenn Tönnies und Co. sich wehren. 
+    
+    * Mit [Spekulation abwenden!](https://fragdenstaat.de/kampagnen/abwendungsvereinbarungen/) geben wir Mieter:innen in Berlin Einblicke in Verträge, die ihr Haus und damit ihre Mietrechte betreffen. 
+    
+    * Mit dem [Klima-Gebäude-Check](https://fragdenstaat.de/kampagnen/klimacheck/) decken wir gemeinsam mit der Deutschen Umwelthilfe auf, was jede einzelne Kommune für den Klimaschutz tut. 
+    
+    * Wir veröffentlichten zu Beginn der Coronapandemie ein [vertrauliches Strategiepapier](https://fragdenstaat.de/blog/2020/04/01/strategiepapier-des-innenministeriums-corona-szenarien/) des Bundesinnenministerium (BMI), das den Umgang der Bundesregierung mit der Pandemie vorzeichnet. Die Bundesregierung war der Meinung, eine Veröffentlichung könnte „Nachteile für die Bundesrepublik Deutschland“ hervorrufen. Wir glauben, dass das Gegenteil richtig ist. Nur wenn wir alle die Strategien der Regierung kennen, können wir sie kritisch begleiten. 
+    
+    * Im Sommer hat das Verwaltungsgericht Berlin nach einer Klage von FragDenStaat entschieden, dass das BMI auf Anfrage auch Twitter- Direktnachrichten herausgeben muss. Damit gibt es Klarheit für eine Grundsatzfrage: Wenn Beamte private Kommunikationskanäle wie Twitter und Facebook nutzen, können sie sich damit nicht der Transparenzpflicht entziehen.
     
     * Im Herbst schreibt FragDenStaat Rechtsgeschichte! Endlich gibt es ein [Urteil gegen das Zensurheberrecht](https://fragdenstaat.de/blog/2020/11/12/glyphosat-entscheidung-urheberrecht/): Das Landgericht Köln hat entschieden, dass die Veröffentlichung eines Glyphosat-Gutachtens keine Urheberrechtsverletzung ist. Damit ist der Fall aber noch nicht beendet und geht in die nächste Instanz.
 
@@ -108,7 +116,7 @@ outputs: >
     * Veröffentlichung des eigenen Musikvideos [Wer fragt den Staat?](https://www.youtube.com/watch?v=R3iev_tLQp0&t=3s)
 
 outcome: >
-    * Dank der Kampagnen sowie Leaks zu Maßnahmen während der Coronapandemie konnten neue Zielgruppen für das Thema Informationsfreiheit sensibilisiert werden. Unsere neue Startseite ist ansprechender und übersichtlicher. Gewonnene Klagen haben zu Grundsatzurteilen geführt, insbesondere beim Zensurheberrecht. Nach Veröffentlichung des selbstgedrehten Musikvideos verzeichneten wir erhöhte Spendeneinnahmen. 
+    Dank der Kampagnen sowie Leaks zu Maßnahmen während der Coronapandemie konnten neue Zielgruppen für das Thema Informationsfreiheit sensibilisiert werden. Unsere neue Startseite ist ansprechender und übersichtlicher. Gewonnene Klagen haben zu Grundsatzurteilen geführt, insbesondere beim Zensurheberrecht. Nach Veröffentlichung des selbstgedrehten Musikvideos verzeichneten wir erhöhte Spendeneinnahmen. 
 
 impact:  >
     * Im Herbst schreibt FragDenStaat Rechtsgeschichte! Vor dem Landgericht Köln haben wir endlich ein wegweisendes Urteil zum Zensurheberrecht  erreicht. Das Landgericht Köln hat entschieden, dass die Veröffentlichung eines Glyphosat-Gutachtens keine Urheberrechtsverletzung ist. Der Fall geht aber noch in die nächste Instanz. 
@@ -118,10 +126,10 @@ impact:  >
     * Recherchen zu Frontex haben Details zu deren Arbeitsweise sowie Menschenrechtsverletzungen aufgedeckt. Es wird zunehmend berichtet. Ein durch Informationsfreiheit transparenter Staat führt zu mehr Partizipation und erhöht die Qualität politischer Prozesse.
     
 evaluation:  >
-    * Maßnahmen werden regelmäßig intern evaluiert. Auf dem Blog und via Newsletter berichtet FragDenStaat regelmäßig. Die Metriken zur Nutzung von FragDenStaat.de sind jederzeit über Matomo einsehbar.
+    Maßnahmen werden regelmäßig intern evaluiert. Auf dem Blog und via Newsletter berichtet FragDenStaat regelmäßig. Die Metriken zur Nutzung von FragDenStaat.de sind jederzeit über Matomo einsehbar.
 
 outlook:  >
-    * Es ist geplant, die Usability der Plattform weiter zu verbessern, das neue Design der Anfrageseite zu launchen und weitere Features für NGOs und Journalist:innen zu entwickeln, u.a. sollen die Möglichkeiten zu Klagen ausgebaut und Widersprüche automatisiert werden. Die Darstellung der befreiten Dokumente wird verbessert, sodass sie gut zugänglich sind und sinnvoll miteinander verknüpft werden können. Berichterstattung, Anfragen und Klagen sollen auf hohem Niveau weitergeführt werden. 
+    Es ist geplant, die Usability der Plattform weiter zu verbessern, das neue Design der Anfrageseite zu launchen und weitere Features für NGOs und Journalist:innen zu entwickeln, u.a. sollen die Möglichkeiten zu Klagen ausgebaut und Widersprüche automatisiert werden. Die Darstellung der befreiten Dokumente wird verbessert, sodass sie gut zugänglich sind und sinnvoll miteinander verknüpft werden können. Berichterstattung, Anfragen und Klagen sollen auf hohem Niveau weitergeführt werden. 
 
     
 ---
