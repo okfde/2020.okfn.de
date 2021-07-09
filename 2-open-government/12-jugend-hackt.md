@@ -36,13 +36,17 @@ solution:
 effect:
 - title: auf Jugendliche, die gerne programmieren
   text: >
-    * Jugendliche erweitern ihr Wissen und ihre Reflexions- und Teamfähigkeit, 
+    * Jugendliche erweitern ihr Wissen und ihre Reflexions- und Teamfähigkeit,
+     
     * vertiefen ihre Problemlösungsfähigkeiten,
+    
     * entwickeln eine Sensibilität für Verantwortung/Ethik in der Technik und
+    
     * erleben (politische) Selbstwirksamkeit.
 - title: auf Jugendliche, die die in der Technikszene eher unterrepräsentiert sind
   text: >
     * Jugendliche entwickeln Zugehörigkeitsgefühl und ein positives Selbstbild,
+    
     * erfahren eine Bestätigung der eigenen Kompetenzen als relevant und erleben ein Umfeld, das sie gleichberechtigt akzeptiert.
 
 - title: gesellschaftliche Wirkung
