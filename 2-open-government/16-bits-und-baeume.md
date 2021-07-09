@@ -31,7 +31,7 @@ Bits & Bäume (B&B) ist eine Bewegung, in der technologische Entwicklungen und d
   Viele Stunden ehrenamtlicher Einsatz für Treffen des Trägerkreises und der weiteren Abstimmungen. <br><br>
   
   **Partner:innen** <br>
-  Brot für die Welt, BUND, Chaos Computer Club, Deutscher Naturschutzring, Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung, Germanwatch, Institut für ökologische Wirtschaftsforschung, Konzeptwerk Neue Ökonomie, TU Berlin.<br><br>
+  Brot für die Welt, BUND, Chaos Computer Club, Deutscher Naturschutzring, Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung, Germanwatch, Institut für ökologische Wirtschaftsforschung, Konzeptwerk Neue Ökonomie, TU Berlin<br><br>
 
 #### *inhaltliche Schwerpunkte*
 Hauptaugenmerk der Arbeit lag zunächst auf der Planung einer weiteren großen Veranstaltung, die für Herbst 2020 angedacht war. Nach Beginn der Coronapandemie mussten diese Aktivitäten verschoben werden. Das Jahr wurde dann dafür genutzt, das Netzwerk intern neu aufzustellen und die Organisationsstrukturen so zu fassen, dass Trägerkreis und Community auch mittelfristig stabil arbeits- und entscheidungsfähig sind. Die OKF DE konnte insbesondere das Jahresthema “Code for Climate” im Netzwerk Code for Germany nutzen, um die Themen von Bits & Bäume auch in andere Projekte der OKF DE zu tragen. 
