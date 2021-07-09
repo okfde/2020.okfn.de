@@ -5,7 +5,7 @@ title: Jugend hackt
 website: https://jugendhackt.org/
 permalink: /open-government/jugendhackt/
 visual:
-    img: /assets/images/bildung/jugendhackt.png
+    img: /assets/images/opengovernment/jugendhackt.png
     alt: Das Alpaka Jugend hackt
 problem:
 - text: Jugendliche erleben eine Welt, die durch Technik geformt wird, die nur von einem kleinen Teil der Gesellschaft gemacht wird.
