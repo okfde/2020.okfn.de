@@ -5,7 +5,7 @@ title: FragDenStaat
 website: https://fragdenstaat.de
 permalink: /open-government/fragdenstaat/
 visual:
-    img: /assets/images/opengovernment/fragdenstaat.png
+    img: /assets/images/opengovernment/FDS.png
     alt: Illustration
 problem:
 - text: Zu wenige Personen nutzen ihr Menschenrecht auf Informationsfreiheit. Wenn Menschenrechte nicht genutzt werden, können sie schneller wieder abgeschafft werden.
