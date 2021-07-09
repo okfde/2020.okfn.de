@@ -5,7 +5,7 @@ title: Code for Germany
 website: https://codefor.de
 permalink: /open-government/code-for-germany/
 visual:
-    img: /assets/images/civictech/codefor.png
+    img: /assets/images/opengovernment/CFG.png
     alt: Illustration
 problem:
 - text: Die Civic-Tech-Community in Deutschland besteht aus vielen individuellen Gruppierungen, die mit ähnlichen Problemen konfrontiert sind, aber bisher vorwiegend regional organisiert sind und keine Lobby haben.
