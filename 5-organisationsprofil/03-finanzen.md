@@ -3,6 +3,10 @@ layout: page
 chapter: 3.3
 title: Finanzen
 permalink: /organisation/finanzen/
+visual:
+    img: /assets/images/opengovernment/budget.png
+    alt: Logo der OKF
+
 ---
 
 ### Wirtschaftliche Lage des Vereins
