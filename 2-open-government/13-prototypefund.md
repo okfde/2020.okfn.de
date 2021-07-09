@@ -5,7 +5,7 @@ title: Prototype Fund
 website: https://prototypefund.de
 permalink: /open-government/prototypefund/
 visual:
-    img: /assets/images/opengovernment/PTFa.png
+    img: /assets/images/opengovernment/PTFb.png
     alt: Logo Prototype Fund
 problem:
 - text: Digitale Innovation nutzt häufig nur wenigen und nicht der breiten Gesellschaft.
