@@ -22,11 +22,11 @@ causes:
 
 solution:
 - title: gesellschaftlichen Wandel positiv gestalten
-  text: Wir kooperieren mit gemeinnützigen Akteuren und entwickeln digitale Lösungsansätze und Tools für gesellschaftliche Herausforderungen. Damit möchten wir Debatten anstoßen und neue Narrative für bestehende Herausforderungen schaffen.
+  text: Wir kooperieren mit gemeinnützigen Akteur:innen und entwickeln digitale Lösungsansätze und Tools für gesellschaftliche Herausforderungen. Damit möchten wir Debatten anstoßen und neue Narrative für bestehende Herausforderungen schaffen.
 - title: Wissensvermittlung
   text: Wir führen praxisorientierte Workshops und Formate durch, die NGOs dazu befähigen, Daten und Technologien zielgerichtet zu nutzen. Erkenntnisse aus den Projekten, Lernmaterialien und Best Practices werden frei zur Verfügung gestellt.
 - title: Communitybuilding
-  text: Um den Austausch und die Vernetzung zwischen technikaffinen Menschen und gesellschaftspolitischen Organisationen zu fördern, organisieren wir Veranstaltungen und setzen mit Partnern sowie unserer Community verschiedene Projekte um.
+  text: Um den Austausch und die Vernetzung zwischen technikaffinen Menschen und gesellschaftspolitischen Organisationen zu fördern, organisieren wir Veranstaltungen und setzen mit Partner:innen sowie unserer Community verschiedene Projekte um.
 effect:
 - title: auf gemeinnützige Organisationen
   text: Organisationen vertiefen ihre digitalen Fähigkeiten und nutzen digitale Informationen und Tools selbstbewusst bei der Planung und Umsetzung ihrer Projekte und Anliegen.
@@ -54,7 +54,7 @@ resources: >
   davon Sachausgaben: 1.107 € <br><br>
 
   **Personal** <br>
-  Projektleitung: Arne Semsrott | Entwickler:in: Lisa Passing / Stefan Wehrmeyer| Projektmanager: Maximilian Voigt
+  Projektleitung: Arne Semsrott | Entwickler:in: Lisa Passing / Stefan Wehrmeyer | Projektmanager: Maximilian Voigt
   <br><br>
 
   **Partner:innen** <br>
@@ -100,7 +100,7 @@ evaluation: >
     
 outlook:  >
 
-     Mit dem Auslaufen der Projektförderung für die Umweltdatenschule enden unsere themenspezifischen Projekte, das kostenlose Workshopangebot sowie das generelle Angebot der Datenschule. Mittlerweile gibt es einige Organisationen und Akteur:innen der Zivilgesellschaft, die im Bereich data literacy Kurse und Workshops anbieten und in diesem Feld aktiv sind. Die entwickelten [Lernmaterialien](https://datenschule.de/lernmaterialien/), die unter einer freien Lizenz veröffentlicht wurden, stehen der Öffentlichkeit weiterhin zur Verfügung. Workshopkonzepte sind zur Nachnutzung mit detaillierten Erläuterungen aufbereitet und können personenunabhängig umgesetzt werden.
+     Mit dem Auslaufen der Projektförderung für die Umweltdatenschule endet das proaktive Anbieten unserer themenspezifischen Projekte. Auf Nachfrage schauen wir gern, ob wir Workshopanfragen übernehmen können. Die entwickelten [Lernmaterialien](https://datenschule.de/lernmaterialien/), die unter einer freien Lizenz veröffentlicht wurden, stehen der Öffentlichkeit weiterhin zur Verfügung. Workshopkonzepte sind zur Nachnutzung mit detaillierten Erläuterungen aufbereitet und können personenunabhängig umgesetzt werden.
 
 
 ---
