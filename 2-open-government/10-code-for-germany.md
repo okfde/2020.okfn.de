@@ -11,7 +11,7 @@ problem:
 - text: Die Civic-Tech-Community in Deutschland besteht aus vielen individuellen Gruppierungen, die mit ähnlichen Problemen konfrontiert sind, aber bisher vorwiegend regional organisiert sind und keine Lobby haben.
 causes:
 - title: Fehlende Nutzung von Open Data,
-  text: Bereits aktive Akteur:innen agieren für sich und ohne Infrastruktur. Akteur:innen mit komplementären Fähigkeiten treffen nicht aufeinander. Akteure mit potenziell komplementären Fähigkeiten treffen nicht aufeinander.
+  text: Bereits aktive Akteur:innen agieren für sich und ohne Infrastruktur. Akteur:innen mit komplementären Fähigkeiten treffen nicht aufeinander. Akteur:innen mit potenziell komplementären Fähigkeiten treffen nicht aufeinander.
 - title: eine fehlende Lobby und
   text: Der Kontakt zu Regierungen, Kommunen und Verwaltungen, etwa um an Daten zu gelangen, ist für Einzelpersonen schwierig umsetzbar.
 - title: fehlendes Bewusstsein
@@ -33,7 +33,7 @@ solution:
 - title: lokale Labs
   text: In lokalen Gruppen treffen sich Ehrenamtliche, die ihre Fähigkeiten dazu nutzen, um das gesellschaftliche Zusammenleben positiv zu beeinflussen.
 - title: Vernetzung
-  text: Entscheidungsträger:innen und Verwaltungen vernetzen sich mit swe Civic-Tech Community, um gemeinsam an Projekten für die Stadt zu arbeiten.
+  text: Entscheidungsträger:innen und Verwaltungen vernetzen sich mit der Civic-Tech Community, um gemeinsam an Projekten für die Stadt zu arbeiten.
 - title: Stärkung von Civic Tech in Deutschland
   text: Es bildet sich eine starke Civic-Tech-Community in Deutschland, Offene Daten werden von Bürger:innen genutzt und durch unsere Beispiele werden Politik & Verwaltungen dazu inspiriert, weitere Daten zu öffnen und bessere, nutzerfreundliche Anwendungen bereitzustellen.
 
@@ -88,9 +88,15 @@ resources: >
 
 
 achievements: >
-  * Im Jahr 2020 konnten wir mit einer Förderung der Deutschen Postcode Lotterie den Themenbereich zu Umwelt und Nachhaltigkeit stärker ausbauen. Unter dem Motto “Code for Climate” haben sich zahlreiche Labs damit auseinandergesetzt, wie sich Offene Daten nutzen lassen, um kommunale Klimaschutzbemühungen sichtbarer und nachvollziehbarer zu gestalten. Dazu gehörte auch, die Folgen von Technologieeinsatz kritisch zu bewerten und sich um nachhaltige digitale Anwendungen zu bemühen. Dies war auch unser Fokus beim Open Data Day 2020 mit den einzigen Lab-Veranstaltungen, die wir aufgrund der Coronapandemie noch offline abhalten und besuchen konnten. In Berlin, Hamburg, Karlsruhe, Leipzig, Münster und Osnabrück wurde intensiv getüftelt, diskutiert und gelernt. Die Förderung der Postcode Lotterie ermöglichte es uns außerdem, unsere Website inhaltlich, technisch sowie vom Design zu überarbeiten. Im Projekt [Digitale Kommune](https://nexusinstitut.de/digitale-kommune-digitale-region-soziokulturelle-auswirkungen-durch-digitalisierung-und-kuenstliche-intelligenz/), das wir seit 2019 mit dem nexus-Institut durchführen, entwickeln wir partizipative Strategieansätze für eine nachhaltige Digitalisierung in Kommunen und Regionen. Schwerpunkt unseres Arbeitspakets ist die Erarbeitung von Handreichungen.
+  * Im Jahr 2020 konnten wir mit einer Förderung der Deutschen Postcode Lotterie den Themenbereich zu Umwelt und Nachhaltigkeit stärker ausbauen. Unter dem Motto “Code for Climate” haben sich zahlreiche Labs damit auseinandergesetzt, wie sich Offene Daten nutzen lassen, um kommunale Klimaschutzbemühungen sichtbarer und nachvollziehbarer zu gestalten. Dazu gehörte auch, die Folgen von Technologieeinsatz kritisch zu bewerten und sich um nachhaltige digitale Anwendungen zu bemühen. Dies war auch unser Fokus beim Open Data Day 2020 mit den einzigen Lab-Veranstaltungen, die wir aufgrund der Coronapandemie noch offline abhalten und besuchen konnten. In Berlin, Hamburg, Karlsruhe, Leipzig, Münster und Osnabrück wurde intensiv getüftelt, diskutiert und gelernt. 
 
-  * Am 25. Juni startete das neu gegründete OK Lab Bielefeld. Zum digitalen Kick-Off stellten sie ihre Partner:innen und spannende erste Projekte vor, u.a. zu umweltfreundlichem und sicherem Stadtverkehr mit der Initiative Radentscheid Bielefeld. Gemeinsam mit der Körber-Stiftung haben wir 2020 erneut das [Forum Offene Stadt](https://offenestadt.info/#rueckblick) ausgerichtet und uns dieses Mal vor allem mit der Frage von Resilienz von Städten bzw. Stadtgesellschaften beschäftigt. Die Teilnehmenden haben diskutiert, wie Bürger:innen bei der Gestaltung der Städte einbezogen werden können und wie Kommunen die Expertise erlangen, mit Herausforderungen wie der Klima- oder Coronakrise umzugehen. Wie alle haben auch wir - nicht nur in diesem Rahmen - mit online Formaten und Tools experimentiert, um den Austausch untereinander auch ohne persönliche Treffen möglich zu machen. 
+  * Die Förderung der Postcode Lotterie ermöglichte es uns außerdem, unsere Website inhaltlich, technisch sowie vom Design zu überarbeiten. 
+
+  * Im Projekt [Digitale Kommune](https://nexusinstitut.de/digitale-kommune-digitale-region-soziokulturelle-auswirkungen-durch-digitalisierung-und-kuenstliche-intelligenz/), das wir seit 2019 mit dem nexus-Institut durchführen, entwickeln wir partizipative Strategieansätze für eine nachhaltige Digitalisierung in Kommunen und Regionen. Schwerpunkt unseres Arbeitspakets ist die Erarbeitung von Handreichungen.
+
+  * Am 25. Juni startete das neu gegründete OK Lab Bielefeld. Zum digitalen Kick-Off stellten sie ihre Partner:innen und spannende erste Projekte vor, u.a. zu umweltfreundlichem und sicherem Stadtverkehr mit der Initiative Radentscheid Bielefeld. 
+
+  * Gemeinsam mit der Körber-Stiftung haben wir 2020 erneut das [Forum Offene Stadt](https://offenestadt.info/#rueckblick) ausgerichtet und uns dieses Mal vor allem mit der Frage von Resilienz von Städten bzw. Stadtgesellschaften beschäftigt. Die Teilnehmenden haben diskutiert, wie Bürger:innen bei der Gestaltung der Städte einbezogen werden können und wie Kommunen die Expertise erlangen, mit Herausforderungen wie der Klima- oder Coronakrise umzugehen. Wie alle haben auch wir - nicht nur in diesem Rahmen - mit online Formaten und Tools experimentiert, um den Austausch untereinander auch ohne persönliche Treffen möglich zu machen. 
 
   * Als weiteren Schwerpunkt haben wir 2020 u. a. als Reaktion auf den [WirVsVirus Hackathon](https://wirvsvirus.org/) unseren Blick verstärkt nach innen gerichtet, unsere Netzwerkstrukturen überdacht, Herausforderungen in der Arbeit zwischen Haupt- und Ehrenamt angesprochen und begonnen, uns über mögliche Lösungsansätze Gedanken zu machen und darüber in den Austausch zu treten. Dieser Prozess wird uns auch im folgenden Jahr begleiten.
 
