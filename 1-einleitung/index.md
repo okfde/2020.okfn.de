@@ -8,7 +8,7 @@ visual:
     alt: Illustration zum Kapitel
 ---
 
-*Der Jahresbericht steht unter auch als [PDF-Version](https://okfn.de/finanzierung/) zur Verfügung. Die Versionen unterscheiden sich lediglich in Layout und Bebilderung.*
+*Der Jahresbericht steht auch als <a href="/assets/documents/OKF_Jahresbericht_2020.pdf" class="download-table">PDF-Version</a> zur Verfügung. Die Versionen unterscheiden sich lediglich in Layout und Bebilderung.*
 
 Die Coronakrise hat das Jahr 2020 geprägt. Der Schutz der Gesundheit von unseren Familien, Freunden und der Gesellschaft insgesamt hat den Alltag bestimmt. Das hat natürlich auch die Arbeit der OKF vor viele neue Herausforderungen gestellt. An unserer Vision und den mit ihr verknüpften Forderungen und Projekten hat sich allerdings nichts geändert. Ganz im Gegenteil. Ohne Offenheit und Teilhabe lassen sich die mit der Coronakrise verbundenen Herausforderungen nicht lösen. Civic Tech, Open Government und Offene Bildung sind wichtiger denn je, um die in der Gesellschaft verankerte Expertise und Engagement zur Krisenbewältigung und zur Stärkung unseres Gemeinwesen zu nutzen. 
 
