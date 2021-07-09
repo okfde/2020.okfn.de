@@ -4,7 +4,7 @@ chapter: 3.1
 title: Organisationsprofil
 permalink: /organisation/profil/
 visual:
-    img: /assets/images/einleitung/logo.png
+    img: /assets/images/opengovernment/team.png
     alt: Logo der OKF
 
 ---
